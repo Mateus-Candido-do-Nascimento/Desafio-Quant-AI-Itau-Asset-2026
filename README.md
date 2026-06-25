@@ -1,0 +1,1 @@
+# Desafio-Quant-AI-Ita-Asset-2026
