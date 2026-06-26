@@ -1,0 +1,54 @@
+======================================================================
+TRATAMENTO DAS RECLAMAÇÕES DO BC
+======================================================================
+  2017 Q1 →  59 conglomerados
+  2017 Q2 →  62 conglomerados
+  2017 Q3 →  57 conglomerados
+  2017 Q4 →  56 conglomerados
+  2018 Q1 →  56 conglomerados
+  2018 Q2 →  59 conglomerados
+  2018 Q3 →  57 conglomerados
+  2018 Q4 →  58 conglomerados
+  2019 Q1 →  57 conglomerados
+  2019 Q2 →  59 conglomerados
+  2019 Q3 →  63 conglomerados
+  2019 Q4 →  58 conglomerados
+  2020 Q1 →  59 conglomerados
+  2020 Q2 →  62 conglomerados
+  2020 Q3 →  61 conglomerados
+  2020 Q4 →  56 conglomerados
+  2021 Q1 →  60 conglomerados
+  2021 Q2 →  64 conglomerados
+  2021 Q3 →  62 conglomerados
+  2021 Q4 →  68 conglomerados
+  2022 Q1 →  71 conglomerados
+  2022 Q3 →  80 conglomerados
+  2022 Q4 →  76 conglomerados
+  2023 Q1 →  79 conglomerados
+  2023 Q2 →  84 conglomerados
+  2023 Q3 →  83 conglomerados
+  2023 Q4 →  86 conglomerados
+  2024 Q1 →  87 conglomerados
+  2024 Q2 →  92 conglomerados
+  2024 Q3 →  90 conglomerados
+  2024 Q4 →  82 conglomerados
+  2025 Q1 → 150 conglomerados
+  2025 Q2 → 147 conglomerados
+  2025 Q3 → 181 conglomerados
+  2025 Q4 → 186 conglomerados
+  2026 Q1 → 193 conglomerados
+
+[1] Linhas-mãe extraídas (todos os bancos):       2960
+[2] Linhas no nosso universo (têm ticker):         427
+      dos quais BDR (ROXO34/INBR):                  51
+[3] No universo, linhas SEM índice (F1 ausente):    79
+      bancos com índice ausente em algum trimestre:
+        ABCB4: 33 trimestre(s)
+        BEES3: 22 trimestre(s)
+        SFSA4: 19 trimestre(s)
+        ROXO34: 4 trimestre(s)
+        BRSR6: 1 trimestre(s)
+
+[4] Salvo: data\processed\reclamacoes_conglomerados.csv
+      → abra no Excel: 2960 linhas, 13 colunas
+[5] Salvo (só universo): data\processed\reclamacoes_universo.csv (427 linhas)

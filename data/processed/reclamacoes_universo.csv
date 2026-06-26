@@ -1,0 +1,428 @@
+﻿ano;trimestre;banco_bc;ticker;no_universo;eh_bdr;f1_solida;categoria;indice;recl_total;recl_procedentes;razao_procedente;clientes
+2017;1;ABC-BRASIL;ABCB4;True;False;False;Menos de quatro milhões de clientes;;7.0;0.0;0.0;15653.0
+2017;2;ABC-BRASIL;ABCB4;True;False;False;Menos de quatro milhões de clientes;;2.0;0.0;0.0;15602.0
+2017;3;ABC-BRASIL;ABCB4;True;False;False;Menos de quatro milhões de clientes;;1.0;0.0;0.0;15684.0
+2018;1;ABC-BRASIL;ABCB4;True;False;False;Menos de quatro milhões de clientes;;3.0;0.0;0.0;15734.0
+2018;2;ABC-BRASIL;ABCB4;True;False;False;Menos de quatro milhões de clientes;;2.0;0.0;0.0;15746.0
+2019;1;ABC-BRASIL;ABCB4;True;False;False;Menos de quatro milhões de clientes;;1.0;0.0;0.0;16463.0
+2019;2;ABC-BRASIL;ABCB4;True;False;False;Menos de quatro milhões de clientes;;3.0;2.0;0.6666666666666666;16555.0
+2019;3;ABC-BRASIL;ABCB4;True;False;False;Menos de quatro milhões de clientes;;15.0;3.0;0.2;19524.0
+2019;4;ABC-BRASIL;ABCB4;True;False;False;Menos de quatro milhões de clientes;;19.0;4.0;0.21052631578947367;21838.0
+2020;1;ABC-BRASIL;ABCB4;True;False;False;Menos de quatro milhões de clientes;;8.0;0.0;0.0;20209.0
+2020;2;ABC-BRASIL;ABCB4;True;False;False;Menos de quatro milhões de clientes;;2.0;1.0;0.5;21754.0
+2020;3;ABC-BRASIL;ABCB4;True;False;False;Menos de quatro milhões de clientes;;4.0;1.0;0.25;24119.0
+2020;4;ABC-BRASIL;ABCB4;True;False;False;Grupo Secundário;;2.0;0.0;0.0;25273.0
+2021;1;ABC-BRASIL;ABCB4;True;False;False;Grupo Secundário;;9.0;2.0;0.2222222222222222;26230.0
+2021;2;ABC-BRASIL;ABCB4;True;False;False;Demais bancos e financeiras;;2.0;0.0;0.0;28022.0
+2021;3;ABC-BRASIL;ABCB4;True;False;False;Demais bancos e financeiras;;4.0;1.0;0.25;29707.0
+2021;4;ABC-BRASIL;ABCB4;True;False;False;Demais Bancos, Financeiras e Instituições de Pagamento;;5.0;2.0;0.4;33095.0
+2022;1;ABC-BRASIL;ABCB4;True;False;False;Demais Bancos, Financeiras e Instituições de Pagamento;;8.0;3.0;0.375;38792.0
+2022;3;ABC-BRASIL;ABCB4;True;False;False;Demais Bancos, Financeiras e Instituições de Pagamento;;14.0;4.0;0.2857142857142857;50720.0
+2022;4;ABC-BRASIL;ABCB4;True;False;False;Demais Bancos, Financeiras e Instituições de Pagamento;;17.0;11.0;0.6470588235294118;55693.0
+2023;1;ABC-BRASIL;ABCB4;True;False;False;Demais Bancos, Financeiras e Instituições de Pagamento;;16.0;6.0;0.375;64343.0
+2023;2;ABC-BRASIL;ABCB4;True;False;False;Demais Bancos, Financeiras e Instituições de Pagamento;;11.0;7.0;0.6363636363636364;72904.0
+2023;3;ABC-BRASIL;ABCB4;True;False;False;Demais Bancos, Financeiras e Instituições de Pagamento;;12.0;3.0;0.25;59729.0
+2023;4;ABC-BRASIL;ABCB4;True;False;False;Demais Bancos, Financeiras e Instituições de Pagamento;;6.0;1.0;0.16666666666666666;66502.0
+2024;1;ABC-BRASIL;ABCB4;True;False;False;Demais Bancos, Financeiras e Instituições de Pagamento;;6.0;2.0;0.3333333333333333;71135.0
+2024;2;ABC-BRASIL;ABCB4;True;False;False;Demais Bancos, Financeiras e Instituições de Pagamento;;9.0;2.0;0.2222222222222222;74780.0
+2024;3;ABC-BRASIL;ABCB4;True;False;False;Demais Bancos, Financeiras e Instituições de Pagamento;;3.0;1.0;0.3333333333333333;
+2024;4;ABC-BRASIL;ABCB4;True;False;False;Demais Bancos, Financeiras e Instituições de Pagamento;;1.0;0.0;0.0;
+2025;1;ABC-BRASIL;ABCB4;True;False;False;Demais Bancos, Financeiras e Instituições de Pagamento;;5.0;3.0;0.6;
+2025;2;ABC-BRASIL;ABCB4;True;False;False;Demais Bancos, Financeiras e Instituições de Pagamento;;8.0;2.0;0.25;
+2025;3;ABC-BRASIL;ABCB4;True;False;False;Demais Bancos, Financeiras e Instituições de Pagamento;;22.0;6.0;0.2727272727272727;
+2025;4;ABC-BRASIL;ABCB4;True;False;False;Demais Bancos, Financeiras e Instituições de Pagamento;;8.0;1.0;0.125;
+2026;1;ABC-BRASIL;ABCB4;True;False;False;Demais Bancos, Financeiras e Instituições de Pagamento;;11.0;4.0;0.36363636363636365;
+2017;1;BB;BBAS3;True;False;True;Mais de quatro milhões de clientes;25.84;9617.0;1536.0;0.15971716751585732;59432237.0
+2017;2;BB;BBAS3;True;False;True;Mais de quatro milhões de clientes;21.71;8272.0;1298.0;0.15691489361702127;59776953.0
+2017;3;BB;BBAS3;True;False;True;Mais de quatro milhões de clientes;22.0;8261.0;1315.0;0.15918169713109792;59756725.0
+2017;4;BB;BBAS3;True;False;True;Mais de quatro milhões de clientes;24.5;7823.0;1524.0;0.1948101751246325;62181281.0
+2018;1;BB;BBAS3;True;False;True;Mais de quatro milhões de clientes;24.2;7932.0;1504.0;0.18961169944528491;62141375.0
+2018;2;BB;BBAS3;True;False;True;Mais de quatro milhões de clientes;20.85;8728.0;1301.0;0.14906049495875343;62371119.0
+2018;3;BB;BBAS3;True;False;True;Mais de quatro milhões de clientes;25.22;8047.0;1590.0;0.19758916366347706;63027888.0
+2018;4;BB;BBAS3;True;False;True;Mais de quatro milhões de clientes;24.98;7830.0;1585.0;0.20242656449553;63432189.0
+2019;1;BB;BBAS3;True;False;True;Mais de quatro milhões de clientes;20.77;6609.0;1337.0;0.2022998940838251;64363992.0
+2019;2;BB;BBAS3;True;False;True;Mais de quatro milhões de clientes;20.63;6372.0;1342.0;0.2106089139987445;65038505.0
+2019;3;BB;BBAS3;True;False;True;Mais de quatro milhões de clientes;19.13;6719.0;1264.0;0.18812323262390238;66072966.0
+2019;4;BB;BBAS3;True;False;True;Mais de quatro milhões de clientes;19.06;5588.0;1267.0;0.22673586256263423;66464386.0
+2020;1;BB;BBAS3;True;False;True;Mais de quatro milhões de clientes;19.07;6051.0;1258.0;0.2078995207403735;65965945.0
+2020;2;BB;BBAS3;True;False;True;Mais de quatro milhões de clientes;22.76;8522.0;1527.0;0.17918329030743957;67076893.0
+2020;3;BB;BBAS3;True;False;True;Mais de quatro milhões de clientes;27.66;8611.0;1878.0;0.21809313668563465;67894151.0
+2020;4;BB;BBAS3;True;False;True;Top 10;22.63;7895.0;1562.0;0.19784673844205194;69012481.0
+2021;1;BB;BBAS3;True;False;True;Top 10;21.25;6470.0;1463.0;0.22612055641421946;68844801.0
+2021;2;BB;BBAS3;True;False;True;Top 10 - Bancos e Financeiras;21.09;5182.0;1456.0;0.28097259745272096;69010996.0
+2021;3;BB;BBAS3;True;False;True;Top 10 - Bancos e Financeiras;16.79;5829.0;1180.0;0.20243609538514326;70259170.0
+2021;4;BB;BBAS3;True;False;True;Top 15 - Bancos, Financeiras e Instituições de Pagamento;14.39;4686.0;1034.0;0.22065727699530516;71820761.0
+2022;1;BB;BBAS3;True;False;True;Top 15 - Bancos, Financeiras e Instituições de Pagamento;12.32;3826.0;891.0;0.23288029273392577;72316273.0
+2022;3;BB;BBAS3;True;False;True;Top 15 - Bancos, Financeiras e Instituições de Pagamento;12.64;4309.0;930.0;0.2158273381294964;73557524.0
+2022;4;BB;BBAS3;True;False;True;Top 15 - Bancos, Financeiras e Instituições de Pagamento;8.22;3435.0;610.0;0.17758369723435224;74126665.0
+2023;1;BB;BBAS3;True;False;True;Top 15 - Bancos, Financeiras e Instituições de Pagamento;8.59;3751.0;637.0;0.16982138096507599;74150080.0
+2023;2;BB;BBAS3;True;False;True;Top 15 - Bancos, Financeiras e Instituições de Pagamento;9.46;4599.0;706.0;0.15351163296368775;74579521.0
+2023;3;BB;BBAS3;True;False;True;Top 15 - Bancos, Financeiras e Instituições de Pagamento;8.99;4538.0;675.0;0.1487439400617012;75080276.0
+2023;4;BB;BBAS3;True;False;True;Top 15 - Bancos, Financeiras e Instituições de Pagamento;5.94;3564.0;449.0;0.12598204264870932;75467287.0
+2024;1;BB;BBAS3;True;False;True;Top 15 - Bancos, Financeiras e Instituições de Pagamento;4.5;2753.0;342.0;0.12422811478387213;75849003.0
+2024;2;BB;BBAS3;True;False;True;Top 15 - Bancos, Financeiras e Instituições de Pagamento;18.4;11305.0;1405.0;0.124281291463954;76283807.0
+2024;3;BB;BBAS3;True;False;True;Top 15 - Bancos, Financeiras e Instituições de Pagamento;18.15;1528.0;201.0;0.13154450261780104;
+2024;4;BB;BBAS3;True;False;True;Top 15 - Bancos, Financeiras e Instituições de Pagamento;18.17;1386.0;158.0;0.113997113997114;
+2025;1;BB;BBAS3;True;False;True;Top 15 - Bancos, Financeiras e Instituições de Pagamento;20.55;1276.0;154.0;0.1206896551724138;
+2025;2;BB;BBAS3;True;False;True;Top 15 - Bancos, Financeiras e Instituições de Pagamento;22.2;1271.0;119.0;0.0936270653029111;
+2025;3;BB;BBAS3;True;False;True;Top 15 - Bancos, Financeiras e Instituições de Pagamento;25.85;1014.0;93.0;0.09171597633136094;
+2025;4;BB;BBAS3;True;False;True;Top 15 - Bancos, Financeiras e Instituições de Pagamento;16.22;963.0;51.0;0.0529595015576324;
+2026;1;BB;BBAS3;True;False;True;Top 15 - Bancos, Financeiras e Instituições de Pagamento;19.36;940.0;64.0;0.06808510638297872;
+2017;1;BRADESCO;BBDC4;True;False;True;Mais de quatro milhões de clientes;25.82;10844.0;2379.0;0.21938399114717816;92106865.0
+2017;2;BRADESCO;BBDC4;True;False;True;Mais de quatro milhões de clientes;24.45;9855.0;2264.0;0.22973110096397767;92585594.0
+2017;3;BRADESCO;BBDC4;True;False;True;Mais de quatro milhões de clientes;23.99;10063.0;2267.0;0.22528073139222896;94473132.0
+2017;4;BRADESCO;BBDC4;True;False;True;Mais de quatro milhões de clientes;25.63;9578.0;2438.0;0.25454165796617245;95112012.0
+2018;1;BRADESCO;BBDC4;True;False;True;Mais de quatro milhões de clientes;20.05;9247.0;1886.0;0.2039580404455499;94058577.0
+2018;2;BRADESCO;BBDC4;True;False;True;Mais de quatro milhões de clientes;19.61;9418.0;1860.0;0.1974941601189212;94813604.0
+2018;3;BRADESCO;BBDC4;True;False;True;Mais de quatro milhões de clientes;22.55;9484.0;2151.0;0.2268030366933783;95352320.0
+2018;4;BRADESCO;BBDC4;True;False;True;Mais de quatro milhões de clientes;23.52;10097.0;2262.0;0.22402693869466178;96142413.0
+2019;1;BRADESCO;BBDC4;True;False;True;Mais de quatro milhões de clientes;23.35;9718.0;2239.0;0.23039720107017905;95881367.0
+2019;2;BRADESCO;BBDC4;True;False;True;Mais de quatro milhões de clientes;24.5;10232.0;2448.0;0.23924941360437843;99892903.0
+2019;3;BRADESCO;BBDC4;True;False;True;Mais de quatro milhões de clientes;24.16;10470.0;2409.0;0.23008595988538683;99684907.0
+2019;4;BRADESCO;BBDC4;True;False;True;Mais de quatro milhões de clientes;19.36;8606.0;1910.0;0.22193818266325818;98653100.0
+2020;1;BRADESCO;BBDC4;True;False;True;Mais de quatro milhões de clientes;20.54;9148.0;2045.0;0.22354613030170528;99546994.0
+2020;2;BRADESCO;BBDC4;True;False;True;Mais de quatro milhões de clientes;24.35;11450.0;2408.0;0.21030567685589519;98855959.0
+2020;3;BRADESCO;BBDC4;True;False;True;Mais de quatro milhões de clientes;25.76;11620.0;2551.0;0.2195352839931153;99010417.0
+2020;4;BRADESCO;BBDC4;True;False;True;Top 10;16.96;11456.0;1686.0;0.1471717877094972;99362077.0
+2021;1;BRADESCO;BBDC4;True;False;True;Top 10;22.78;8752.0;2248.0;0.25685557586837293;98648524.0
+2021;2;BRADESCO;BBDC4;True;False;True;Top 10 - Bancos e Financeiras;25.33;9639.0;2515.0;0.26091918248780993;99260817.0
+2021;3;BRADESCO;BBDC4;True;False;True;Top 10 - Bancos e Financeiras;36.03;10693.0;3613.0;0.33788459740016835;100264792.0
+2021;4;BRADESCO;BBDC4;True;False;True;Top 15 - Bancos, Financeiras e Instituições de Pagamento;25.3;8104.0;2529.0;0.3120681145113524;99921260.0
+2022;1;BRADESCO;BBDC4;True;False;True;Top 15 - Bancos, Financeiras e Instituições de Pagamento;25.22;8047.0;2587.0;0.32148626817447495;102567618.0
+2022;3;BRADESCO;BBDC4;True;False;True;Top 15 - Bancos, Financeiras e Instituições de Pagamento;25.18;8722.0;2564.0;0.29396927310249943;101788328.0
+2022;4;BRADESCO;BBDC4;True;False;True;Top 15 - Bancos, Financeiras e Instituições de Pagamento;21.64;6878.0;2225.0;0.32349520209363186;102814534.0
+2023;1;BRADESCO;BBDC4;True;False;True;Top 15 - Bancos, Financeiras e Instituições de Pagamento;23.05;7785.0;2390.0;0.30700064226075785;103666074.0
+2023;2;BRADESCO;BBDC4;True;False;True;Top 15 - Bancos, Financeiras e Instituições de Pagamento;30.9;9098.0;3229.0;0.35491316772917125;104486688.0
+2023;3;BRADESCO;BBDC4;True;False;True;Top 15 - Bancos, Financeiras e Instituições de Pagamento;29.02;8679.0;3052.0;0.35165341629219954;105159414.0
+2023;4;BRADESCO;BBDC4;True;False;True;Top 15 - Bancos, Financeiras e Instituições de Pagamento;18.96;5992.0;2007.0;0.33494659546061417;105844674.0
+2024;1;BRADESCO;BBDC4;True;False;True;Top 15 - Bancos, Financeiras e Instituições de Pagamento;15.43;5108.0;1644.0;0.32184808144087707;106523397.0
+2024;2;BRADESCO;BBDC4;True;False;True;Top 15 - Bancos, Financeiras e Instituições de Pagamento;38.43;17143.0;4151.0;0.24213964883625969;107964923.0
+2024;3;BRADESCO;BBDC4;True;False;True;Top 15 - Bancos, Financeiras e Instituições de Pagamento;29.88;2851.0;528.0;0.18519817607856892;
+2024;4;BRADESCO;BBDC4;True;False;True;Top 15 - Bancos, Financeiras e Instituições de Pagamento;35.89;3194.0;717.0;0.2244834063869756;
+2025;1;BRADESCO;BBDC4;True;False;True;Top 15 - Bancos, Financeiras e Instituições de Pagamento;69.63;2767.0;759.0;0.2743043006866643;
+2025;2;BRADESCO;BBDC4;True;False;True;Top 15 - Bancos, Financeiras e Instituições de Pagamento;60.58;2837.0;648.0;0.2284102925625661;
+2025;3;BRADESCO;BBDC4;True;False;True;Top 15 - Bancos, Financeiras e Instituições de Pagamento;51.74;2688.0;474.0;0.17633928571428573;
+2025;4;BRADESCO;BBDC4;True;False;True;Top 15 - Bancos, Financeiras e Instituições de Pagamento;43.89;2846.0;420.0;0.14757554462403374;
+2026;1;BRADESCO;BBDC4;True;False;True;Top 15 - Bancos, Financeiras e Instituições de Pagamento;48.92;2508.0;348.0;0.13875598086124402;
+2017;1;BANESTES;BEES3;True;False;False;Menos de quatro milhões de clientes;;19.0;9.0;0.47368421052631576;1298766.0
+2017;2;BANESTES;BEES3;True;False;False;Menos de quatro milhões de clientes;13.73;35.0;18.0;0.5142857142857142;1310617.0
+2017;3;BANESTES;BEES3;True;False;False;Menos de quatro milhões de clientes;;32.0;8.0;0.25;1322844.0
+2017;4;BANESTES;BEES3;True;False;False;Menos de quatro milhões de clientes;12.11;29.0;16.0;0.5517241379310345;1320559.0
+2018;1;BANESTES;BEES3;True;False;False;Menos de quatro milhões de clientes;;29.0;14.0;0.4827586206896552;1319406.0
+2018;2;BANESTES;BEES3;True;False;False;Menos de quatro milhões de clientes;17.82;46.0;22.0;0.4782608695652174;1233897.0
+2018;3;BANESTES;BEES3;True;False;False;Menos de quatro milhões de clientes;;40.0;8.0;0.2;1239517.0
+2018;4;BANESTES;BEES3;True;False;False;Menos de quatro milhões de clientes;;36.0;11.0;0.3055555555555556;1243939.0
+2019;1;BANESTES;BEES3;True;False;False;Menos de quatro milhões de clientes;;48.0;10.0;0.20833333333333334;1250039.0
+2019;2;BANESTES;BEES3;True;False;False;Menos de quatro milhões de clientes;;44.0;9.0;0.20454545454545456;1265428.0
+2019;3;BANESTES;BEES3;True;False;False;Menos de quatro milhões de clientes;11.77;40.0;15.0;0.375;1274425.0
+2019;4;BANESTES;BEES3;True;False;False;Menos de quatro milhões de clientes;11.67;45.0;15.0;0.3333333333333333;1284420.0
+2020;1;BANESTES;BEES3;True;False;False;Menos de quatro milhões de clientes;12.34;57.0;16.0;0.2807017543859649;1295724.0
+2020;2;BANESTES;BEES3;True;False;False;Menos de quatro milhões de clientes;;38.0;10.0;0.2631578947368421;1303144.0
+2020;3;BANESTES;BEES3;True;False;False;Menos de quatro milhões de clientes;;84.0;22.0;0.2619047619047619;1312082.0
+2020;4;BANESTES;BEES3;True;False;False;Grupo Secundário;;83.0;17.0;0.20481927710843373;1324663.0
+2021;1;BANESTES;BEES3;True;False;False;Grupo Secundário;;48.0;21.0;0.4375;1232727.0
+2021;2;BANESTES;BEES3;True;False;False;Demais bancos e financeiras;;66.0;27.0;0.4090909090909091;1333666.0
+2021;3;BANESTES;BEES3;True;False;False;Demais bancos e financeiras;;73.0;17.0;0.2328767123287671;1345235.0
+2021;4;BANESTES;BEES3;True;False;False;Demais Bancos, Financeiras e Instituições de Pagamento;;46.0;11.0;0.2391304347826087;1354013.0
+2022;1;BANESTES;BEES3;True;False;False;Demais Bancos, Financeiras e Instituições de Pagamento;;65.0;24.0;0.36923076923076925;1367792.0
+2022;3;BANESTES;BEES3;True;False;False;Demais Bancos, Financeiras e Instituições de Pagamento;25.51;93.0;36.0;0.3870967741935484;1410675.0
+2022;4;BANESTES;BEES3;True;False;False;Demais Bancos, Financeiras e Instituições de Pagamento;;52.0;25.0;0.4807692307692308;1427677.0
+2023;1;BANESTES;BEES3;True;False;False;Demais Bancos, Financeiras e Instituições de Pagamento;;47.0;17.0;0.3617021276595745;1393196.0
+2023;2;BANESTES;BEES3;True;False;False;Demais Bancos, Financeiras e Instituições de Pagamento;;54.0;19.0;0.35185185185185186;1409374.0
+2023;3;BANESTES;BEES3;True;False;False;Demais Bancos, Financeiras e Instituições de Pagamento;22.69;79.0;32.0;0.4050632911392405;1410038.0
+2023;4;BANESTES;BEES3;True;False;False;Demais Bancos, Financeiras e Instituições de Pagamento;;52.0;19.0;0.36538461538461536;1418483.0
+2024;1;BANESTES;BEES3;True;False;False;Demais Bancos, Financeiras e Instituições de Pagamento;;67.0;24.0;0.3582089552238806;1428132.0
+2024;2;BANESTES;BEES3;True;False;False;Demais Bancos, Financeiras e Instituições de Pagamento;24.31;116.0;35.0;0.3017241379310345;1439381.0
+2024;3;BANESTES;BEES3;True;False;False;Demais Bancos, Financeiras e Instituições de Pagamento;;93.0;25.0;0.26881720430107525;
+2024;4;BANESTES;BEES3;True;False;False;Demais Bancos, Financeiras e Instituições de Pagamento;27.8;165.0;43.0;0.2606060606060606;
+2025;1;BANESTES;BEES3;True;False;False;Demais Bancos, Financeiras e Instituições de Pagamento;;100.0;28.0;0.28;
+2025;2;BANESTES;BEES3;True;False;False;Demais Bancos, Financeiras e Instituições de Pagamento;37.69;178.0;52.0;0.29213483146067415;
+2025;3;BANESTES;BEES3;True;False;False;Demais Bancos, Financeiras e Instituições de Pagamento;51.33;214.0;63.0;0.29439252336448596;
+2025;4;BANESTES;BEES3;True;False;False;Demais Bancos, Financeiras e Instituições de Pagamento;61.26;211.0;68.0;0.3222748815165877;
+2026;1;BANESTES;BEES3;True;False;False;Demais Bancos, Financeiras e Instituições de Pagamento;61.07;190.0;68.0;0.35789473684210527;
+2017;1;MERCANTIL DO BRASIL;BMEB4;True;False;True;Menos de quatro milhões de clientes;22.31;373.0;51.0;0.13672922252010725;2285143.0
+2017;2;MERCANTIL DO BRASIL;BMEB4;True;False;True;Menos de quatro milhões de clientes;16.88;389.0;40.0;0.10282776349614396;2368432.0
+2017;3;MERCANTIL DO BRASIL;BMEB4;True;False;True;Menos de quatro milhões de clientes;33.89;508.0;83.0;0.16338582677165353;2448946.0
+2017;4;MERCANTIL DO BRASIL;BMEB4;True;False;True;Menos de quatro milhões de clientes;19.37;336.0;49.0;0.14583333333333334;2529108.0
+2018;1;MERCANTIL DO BRASIL;BMEB4;True;False;True;Menos de quatro milhões de clientes;16.97;312.0;44.0;0.14102564102564102;2592156.0
+2018;2;MERCANTIL DO BRASIL;BMEB4;True;False;True;Menos de quatro milhões de clientes;9.52;338.0;25.0;0.07396449704142012;2625460.0
+2018;3;MERCANTIL DO BRASIL;BMEB4;True;False;True;Menos de quatro milhões de clientes;5.98;245.0;16.0;0.0653061224489796;2671375.0
+2018;4;MERCANTIL DO BRASIL;BMEB4;True;False;True;Menos de quatro milhões de clientes;21.53;258.0;58.0;0.2248062015503876;2692880.0
+2019;1;MERCANTIL DO BRASIL;BMEB4;True;False;True;Menos de quatro milhões de clientes;17.58;212.0;48.0;0.22641509433962265;2729583.0
+2019;2;MERCANTIL DO BRASIL;BMEB4;True;False;True;Menos de quatro milhões de clientes;19.54;246.0;55.0;0.22357723577235772;2813529.0
+2019;3;MERCANTIL DO BRASIL;BMEB4;True;False;True;Menos de quatro milhões de clientes;17.57;210.0;51.0;0.24285714285714285;2902589.0
+2019;4;MERCANTIL DO BRASIL;BMEB4;True;False;True;Menos de quatro milhões de clientes;27.23;217.0;82.0;0.3778801843317972;3010523.0
+2020;1;MERCANTIL DO BRASIL;BMEB4;True;False;True;Menos de quatro milhões de clientes;27.6;237.0;86.0;0.3628691983122363;3115392.0
+2020;2;MERCANTIL DO BRASIL;BMEB4;True;False;True;Menos de quatro milhões de clientes;30.73;256.0;99.0;0.38671875;3221087.0
+2020;3;MERCANTIL DO BRASIL;BMEB4;True;False;True;Menos de quatro milhões de clientes;48.75;329.0;160.0;0.48632218844984804;3281816.0
+2020;4;MERCANTIL DO BRASIL;BMEB4;True;False;True;Grupo Secundário;50.14;266.0;168.0;0.631578947368421;3350261.0
+2021;1;MERCANTIL DO BRASIL;BMEB4;True;False;True;Grupo Secundário;65.23;369.0;227.0;0.6151761517615176;3479596.0
+2021;2;MERCANTIL DO BRASIL;BMEB4;True;False;True;Demais bancos e financeiras;136.69;715.0;506.0;0.7076923076923077;3701652.0
+2021;3;MERCANTIL DO BRASIL;BMEB4;True;False;True;Demais bancos e financeiras;122.14;801.0;467.0;0.5830212234706617;3823232.0
+2021;4;MERCANTIL DO BRASIL;BMEB4;True;False;True;Demais Bancos, Financeiras e Instituições de Pagamento;75.08;599.0;321.0;0.5358931552587646;4275418.0
+2022;1;MERCANTIL DO BRASIL;BMEB4;True;False;True;Demais Bancos, Financeiras e Instituições de Pagamento;53.16;503.0;255.0;0.5069582504970179;4796822.0
+2022;3;MERCANTIL DO BRASIL;BMEB4;True;False;True;Demais Bancos, Financeiras e Instituições de Pagamento;58.42;624.0;323.0;0.5176282051282052;5528253.0
+2022;4;MERCANTIL DO BRASIL;BMEB4;True;False;True;Demais Bancos, Financeiras e Instituições de Pagamento;48.4;557.0;279.0;0.5008976660682226;5764031.0
+2023;1;MERCANTIL DO BRASIL;BMEB4;True;False;True;Demais Bancos, Financeiras e Instituições de Pagamento;61.46;768.0;381.0;0.49609375;6198860.0
+2023;2;MERCANTIL DO BRASIL;BMEB4;True;False;True;Demais Bancos, Financeiras e Instituições de Pagamento;45.39;738.0;304.0;0.41192411924119243;6697004.0
+2023;3;MERCANTIL DO BRASIL;BMEB4;True;False;True;Demais Bancos, Financeiras e Instituições de Pagamento;26.83;521.0;190.0;0.3646833013435701;7080383.0
+2023;4;MERCANTIL DO BRASIL;BMEB4;True;False;True;Demais Bancos, Financeiras e Instituições de Pagamento;49.57;757.0;366.0;0.48348745046235136;7382083.0
+2024;1;MERCANTIL DO BRASIL;BMEB4;True;False;True;Demais Bancos, Financeiras e Instituições de Pagamento;30.11;597.0;228.0;0.38190954773869346;7571423.0
+2024;2;MERCANTIL DO BRASIL;BMEB4;True;False;True;Demais Bancos, Financeiras e Instituições de Pagamento;259.43;3530.0;2023.0;0.5730878186968839;7797078.0
+2024;3;MERCANTIL DO BRASIL;BMEB4;True;False;True;Demais Bancos, Financeiras e Instituições de Pagamento;418.83;1710.0;1215.0;0.7105263157894737;
+2024;4;MERCANTIL DO BRASIL;BMEB4;True;False;True;Demais Bancos, Financeiras e Instituições de Pagamento;307.88;1065.0;700.0;0.6572769953051644;
+2025;1;MERCANTIL DO BRASIL;BMEB4;True;False;True;Demais Bancos, Financeiras e Instituições de Pagamento;226.96;1107.0;618.0;0.5582655826558266;
+2025;2;MERCANTIL DO BRASIL;BMEB4;True;False;True;Demais Bancos, Financeiras e Instituições de Pagamento;260.88;1020.0;554.0;0.5431372549019607;
+2025;3;MERCANTIL DO BRASIL;BMEB4;True;False;True;Demais Bancos, Financeiras e Instituições de Pagamento;306.6;1034.0;503.0;0.4864603481624758;
+2025;4;MERCANTIL DO BRASIL;BMEB4;True;False;True;Demais Bancos, Financeiras e Instituições de Pagamento;221.12;878.0;403.0;0.45899772209567197;
+2026;1;MERCANTIL DO BRASIL;BMEB4;True;False;True;Demais Bancos, Financeiras e Instituições de Pagamento;178.93;852.0;360.0;0.4225352112676056;
+2017;1;BMG;BMGB4;True;False;True;Menos de quatro milhões de clientes;31.44;859.0;107.0;0.12456344586728754;3402623.0
+2017;2;BMG;BMGB4;True;False;True;Menos de quatro milhões de clientes;47.75;1057.0;167.0;0.15799432355723747;3496999.0
+2017;3;BMG;BMGB4;True;False;True;Menos de quatro milhões de clientes;46.3;1054.0;168.0;0.15939278937381404;3628231.0
+2017;4;BMG;BMGB4;True;False;True;Menos de quatro milhões de clientes;43.73;1281.0;164.0;0.12802498048399688;3750226.0
+2018;1;BMG;BMGB4;True;False;True;Menos de quatro milhões de clientes;31.29;1327.0;119.0;0.08967596081386586;3802746.0
+2018;2;BMG;BMGB4;True;False;True;Menos de quatro milhões de clientes;30.42;1391.0;112.0;0.08051761322789361;3680899.0
+2018;3;BMG;BMGB4;True;False;True;Menos de quatro milhões de clientes;33.05;1116.0;125.0;0.11200716845878136;3781509.0
+2018;4;BMG;BMGB4;True;False;True;Menos de quatro milhões de clientes;63.97;1096.0;249.0;0.2271897810218978;3892117.0
+2019;1;BMG;BMGB4;True;False;True;Menos de quatro milhões de clientes;45.56;1023.0;180.0;0.17595307917888564;3949983.0
+2019;2;BMG;BMGB4;True;False;True;Menos de quatro milhões de clientes;65.68;1286.0;259.0;0.20139968895800933;3943104.0
+2019;3;BMG;BMGB4;True;False;True;Mais de quatro milhões de clientes;82.33;1689.0;376.0;0.22261693309650682;4566863.0
+2019;4;BMG;BMGB4;True;False;True;Mais de quatro milhões de clientes;68.66;1233.0;326.0;0.2643957826439578;4747780.0
+2020;1;BMG;BMGB4;True;False;True;Mais de quatro milhões de clientes;82.07;1414.0;407.0;0.28783592644978784;4958841.0
+2020;2;BMG;BMGB4;True;False;True;Mais de quatro milhões de clientes;99.8;1543.0;520.0;0.3370058327932599;5210230.0
+2020;3;BMG;BMGB4;True;False;True;Mais de quatro milhões de clientes;236.73;2376.0;1325.0;0.5576599326599326;5597083.0
+2020;4;BMG;BMGB4;True;False;True;Grupo Secundário;265.22;2879.0;1605.0;0.5574852379298367;6051361.0
+2021;1;BMG;BMGB4;True;False;True;Grupo Secundário;165.2;2085.0;1190.0;0.5707434052757794;7202992.0
+2021;2;BMG;BMGB4;True;False;True;Demais bancos e financeiras;101.86;1728.0;795.0;0.4600694444444444;7804650.0
+2021;3;BMG;BMGB4;True;False;True;Demais bancos e financeiras;106.63;2398.0;868.0;0.36196830692243537;8140173.0
+2021;4;BMG;BMGB4;True;False;True;Top 15 - Bancos, Financeiras e Instituições de Pagamento;67.87;1533.0;618.0;0.40313111545988256;9105226.0
+2022;1;BMG;BMGB4;True;False;True;Top 15 - Bancos, Financeiras e Instituições de Pagamento;47.2;1184.0;489.0;0.41300675675675674;10358318.0
+2022;3;BMG;BMGB4;True;False;True;Top 15 - Bancos, Financeiras e Instituições de Pagamento;46.87;1540.0;542.0;0.35194805194805195;11561565.0
+2022;4;BMG;BMGB4;True;False;True;Demais Bancos, Financeiras e Instituições de Pagamento;53.88;1693.0;661.0;0.390431187241583;12267412.0
+2023;1;BMG;BMGB4;True;False;True;Demais Bancos, Financeiras e Instituições de Pagamento;63.04;1908.0;813.0;0.4261006289308176;12894925.0
+2023;2;BMG;BMGB4;True;False;True;Demais Bancos, Financeiras e Instituições de Pagamento;49.01;1716.0;640.0;0.372960372960373;13057008.0
+2023;3;BMG;BMGB4;True;False;True;Demais Bancos, Financeiras e Instituições de Pagamento;34.23;1334.0;452.0;0.33883058470764615;13202229.0
+2023;4;BMG;BMGB4;True;False;True;Demais Bancos, Financeiras e Instituições de Pagamento;32.86;1126.0;341.0;0.302841918294849;10376912.0
+2024;1;BMG;BMGB4;True;False;True;Demais Bancos, Financeiras e Instituições de Pagamento;30.01;1027.0;318.0;0.30963972736124634;10594890.0
+2024;2;BMG;BMGB4;True;False;True;Demais Bancos, Financeiras e Instituições de Pagamento;104.06;3914.0;1067.0;0.27261113949923355;10247718.0
+2024;3;BMG;BMGB4;True;False;True;Demais Bancos, Financeiras e Instituições de Pagamento;32.01;1141.0;130.0;0.11393514460999124;
+2024;4;BMG;BMGB4;True;False;True;Demais Bancos, Financeiras e Instituições de Pagamento;41.46;1272.0;152.0;0.11949685534591195;
+2025;1;BMG;BMGB4;True;False;True;Demais Bancos, Financeiras e Instituições de Pagamento;60.14;1453.0;251.0;0.17274604267033725;
+2025;2;BMG;BMGB4;True;False;True;Demais Bancos, Financeiras e Instituições de Pagamento;79.44;1377.0;230.0;0.16702977487291212;
+2025;3;BMG;BMGB4;True;False;True;Demais Bancos, Financeiras e Instituições de Pagamento;122.91;1293.0;239.0;0.1848414539829853;
+2025;4;BMG;BMGB4;True;False;True;Demais Bancos, Financeiras e Instituições de Pagamento;83.18;1279.0;198.0;0.15480844409695074;
+2026;1;BMG;BMGB4;True;False;True;Demais Bancos, Financeiras e Instituições de Pagamento;77.0;1062.0;174.0;0.1638418079096045;
+2021;2;BTG PACTUAL/BANCO PAN;BPAC11;True;False;True;Top 10 - Bancos e Financeiras;103.44;3630.0;1301.0;0.3584022038567493;12576773.0
+2021;3;BTG PACTUAL/BANCO PAN;BPAC11;True;False;True;Top 10 - Bancos e Financeiras;65.83;3061.0;1004.0;0.32799738647500815;15250442.0
+2021;4;BTG PACTUAL/BANCO PAN;BPAC11;True;False;True;Top 15 - Bancos, Financeiras e Instituições de Pagamento;63.08;2756.0;1128.0;0.409288824383164;17880721.0
+2022;1;BTG PACTUAL/BANCO PAN;BPAC11;True;False;True;Top 15 - Bancos, Financeiras e Instituições de Pagamento;68.2;2851.0;1290.0;0.4524728165555945;18913034.0
+2022;3;BTG PACTUAL/BANCO PAN;BPAC11;True;False;True;Top 15 - Bancos, Financeiras e Instituições de Pagamento;76.14;3075.0;1559.0;0.5069918699186992;20473165.0
+2022;4;BTG PACTUAL/BANCO PAN;BPAC11;True;False;True;Top 15 - Bancos, Financeiras e Instituições de Pagamento;76.13;3093.0;1613.0;0.5215001616553508;21185674.0
+2023;1;BTG PACTUAL/BANCO PAN;BPAC11;True;False;True;Top 15 - Bancos, Financeiras e Instituições de Pagamento;71.87;3112.0;1608.0;0.5167095115681234;22371033.0
+2023;2;BTG PACTUAL/BANCO PAN;BPAC11;True;False;True;Top 15 - Bancos, Financeiras e Instituições de Pagamento;43.58;2275.0;1004.0;0.4413186813186813;23036225.0
+2023;3;BTG PACTUAL/BANCO PAN;BPAC11;True;False;True;Top 15 - Bancos, Financeiras e Instituições de Pagamento;38.41;2091.0;867.0;0.4146341463414634;22568804.0
+2023;4;BTG PACTUAL/BANCO PAN;BPAC11;True;False;True;Top 15 - Bancos, Financeiras e Instituições de Pagamento;34.11;1914.0;791.0;0.41327063740856845;23184516.0
+2024;1;BTG PACTUAL/BANCO PAN;BPAC11;True;False;True;Top 15 - Bancos, Financeiras e Instituições de Pagamento;22.25;1597.0;530.0;0.3318722604884158;23817509.0
+2024;2;BTG PACTUAL/BANCO PAN;BPAC11;True;False;True;Top 15 - Bancos, Financeiras e Instituições de Pagamento;77.38;6250.0;1857.0;0.29712;23984977.0
+2024;3;BTG PACTUAL/BANCO PAN;BPAC11;True;False;True;Top 15 - Bancos, Financeiras e Instituições de Pagamento;37.27;1612.0;288.0;0.17866004962779156;
+2024;4;BTG PACTUAL/BANCO PAN;BPAC11;True;False;True;Top 15 - Bancos, Financeiras e Instituições de Pagamento;36.27;1458.0;222.0;0.1522633744855967;
+2025;1;BTG PACTUAL/BANCO PAN;BPAC11;True;False;True;Top 15 - Bancos, Financeiras e Instituições de Pagamento;38.32;1499.0;274.0;0.1827885256837892;
+2025;2;BTG PACTUAL/BANCO PAN;BPAC11;True;False;True;Top 15 - Bancos, Financeiras e Instituições de Pagamento;36.89;1466.0;226.0;0.15416098226466576;
+2025;3;BTG PACTUAL/BANCO PAN;BPAC11;True;False;True;Top 15 - Bancos, Financeiras e Instituições de Pagamento;32.23;1473.0;169.0;0.11473183978275628;
+2025;4;BTG PACTUAL/BANCO PAN;BPAC11;True;False;True;Top 15 - Bancos, Financeiras e Instituições de Pagamento;33.67;1724.0;181.0;0.10498839907192575;
+2026;1;BTG PACTUAL/BANCO PAN;BPAC11;True;False;True;Top 15 - Bancos, Financeiras e Instituições de Pagamento;42.81;1496.0;239.0;0.15975935828877005;
+2017;1;BANRISUL;BRSR6;True;False;True;Mais de quatro milhões de clientes;13.37;366.0;59.0;0.16120218579234974;4410257.0
+2017;2;BANRISUL;BRSR6;True;False;True;Mais de quatro milhões de clientes;15.86;504.0;71.0;0.14087301587301587;4474462.0
+2017;3;BANRISUL;BRSR6;True;False;True;Mais de quatro milhões de clientes;15.97;492.0;72.0;0.14634146341463414;4506706.0
+2017;4;BANRISUL;BRSR6;True;False;True;Mais de quatro milhões de clientes;25.06;570.0;114.0;0.2;4548099.0
+2018;1;BANRISUL;BRSR6;True;False;True;Mais de quatro milhões de clientes;12.21;490.0;56.0;0.11428571428571428;4585763.0
+2018;2;BANRISUL;BRSR6;True;False;True;Mais de quatro milhões de clientes;18.57;600.0;86.0;0.14333333333333334;4628899.0
+2018;3;BANRISUL;BRSR6;True;False;True;Mais de quatro milhões de clientes;15.81;637.0;73.0;0.11459968602825746;4614851.0
+2018;4;BANRISUL;BRSR6;True;False;True;Mais de quatro milhões de clientes;19.3;713.0;91.0;0.1276297335203366;4713393.0
+2019;1;BANRISUL;BRSR6;True;False;True;Mais de quatro milhões de clientes;12.8;561.0;61.0;0.10873440285204991;4763306.0
+2019;2;BANRISUL;BRSR6;True;False;True;Mais de quatro milhões de clientes;15.3;633.0;74.0;0.11690363349131122;4834328.0
+2019;3;BANRISUL;BRSR6;True;False;True;Mais de quatro milhões de clientes;22.57;626.0;110.0;0.1757188498402556;4873088.0
+2019;4;BANRISUL;BRSR6;True;False;True;Mais de quatro milhões de clientes;23.3;593.0;115.0;0.19392917369308602;4935064.0
+2020;1;BANRISUL;BRSR6;True;False;True;Mais de quatro milhões de clientes;21.8;573.0;109.0;0.19022687609075042;4998869.0
+2020;2;BANRISUL;BRSR6;True;False;True;Mais de quatro milhões de clientes;19.83;645.0;100.0;0.15503875968992248;5042321.0
+2020;3;BANRISUL;BRSR6;True;False;True;Mais de quatro milhões de clientes;27.15;866.0;138.0;0.15935334872979215;5081434.0
+2020;4;BANRISUL;BRSR6;True;False;True;Grupo Secundário;19.69;601.0;101.0;0.16805324459234608;5127105.0
+2021;1;BANRISUL;BRSR6;True;False;True;Grupo Secundário;24.99;536.0;127.0;0.23694029850746268;5080031.0
+2021;2;BANRISUL;BRSR6;True;False;True;Demais bancos e financeiras;37.2;660.0;188.0;0.28484848484848485;5052830.0
+2021;3;BANRISUL;BRSR6;True;False;True;Demais bancos e financeiras;37.68;855.0;190.0;0.2222222222222222;5041288.0
+2021;4;BANRISUL;BRSR6;True;False;True;Demais Bancos, Financeiras e Instituições de Pagamento;22.86;556.0;116.0;0.20863309352517986;5073507.0
+2022;1;BANRISUL;BRSR6;True;False;True;Demais Bancos, Financeiras e Instituições de Pagamento;14.72;403.0;75.0;0.18610421836228289;5091709.0
+2022;3;BANRISUL;BRSR6;True;False;True;Demais Bancos, Financeiras e Instituições de Pagamento;7.31;296.0;38.0;0.12837837837837837;5198088.0
+2022;4;BANRISUL;BRSR6;True;False;True;Demais Bancos, Financeiras e Instituições de Pagamento;6.33;383.0;33.0;0.08616187989556136;5213189.0
+2023;1;BANRISUL;BRSR6;True;False;True;Demais Bancos, Financeiras e Instituições de Pagamento;6.68;315.0;35.0;0.1111111111111111;5232565.0
+2023;2;BANRISUL;BRSR6;True;False;True;Demais Bancos, Financeiras e Instituições de Pagamento;;362.0;28.0;0.07734806629834254;5257422.0
+2023;3;BANRISUL;BRSR6;True;False;True;Demais Bancos, Financeiras e Instituições de Pagamento;8.9;369.0;47.0;0.12737127371273713;5280863.0
+2023;4;BANRISUL;BRSR6;True;False;True;Demais Bancos, Financeiras e Instituições de Pagamento;7.79;361.0;42.0;0.11634349030470914;5385323.0
+2024;1;BANRISUL;BRSR6;True;False;True;Demais Bancos, Financeiras e Instituições de Pagamento;7.22;295.0;39.0;0.13220338983050847;5399191.0
+2024;2;BANRISUL;BRSR6;True;False;True;Demais Bancos, Financeiras e Instituições de Pagamento;51.89;1614.0;280.0;0.1734820322180917;5394192.0
+2024;3;BANRISUL;BRSR6;True;False;True;Demais Bancos, Financeiras e Instituições de Pagamento;83.52;1018.0;290.0;0.28487229862475444;
+2024;4;BANRISUL;BRSR6;True;False;True;Demais Bancos, Financeiras e Instituições de Pagamento;17.36;595.0;51.0;0.08571428571428572;
+2025;1;BANRISUL;BRSR6;True;False;True;Demais Bancos, Financeiras e Instituições de Pagamento;20.59;694.0;61.0;0.08789625360230548;
+2025;2;BANRISUL;BRSR6;True;False;True;Demais Bancos, Financeiras e Instituições de Pagamento;30.85;778.0;80.0;0.10282776349614396;
+2025;3;BANRISUL;BRSR6;True;False;True;Demais Bancos, Financeiras e Instituições de Pagamento;37.18;714.0;80.0;0.11204481792717087;
+2025;4;BANRISUL;BRSR6;True;False;True;Demais Bancos, Financeiras e Instituições de Pagamento;33.35;565.0;61.0;0.1079646017699115;
+2026;1;BANRISUL;BRSR6;True;False;True;Demais Bancos, Financeiras e Instituições de Pagamento;36.59;591.0;85.0;0.14382402707275804;
+2019;1;INTER;INBR;True;True;False;Menos de quatro milhões de clientes;139.03;797.0;271.0;0.34002509410288584;1949145.0
+2019;2;INTER;INBR;True;True;False;Menos de quatro milhões de clientes;367.73;2205.0;927.0;0.4204081632653061;2520832.0
+2019;3;INTER;INBR;True;True;False;Menos de quatro milhões de clientes;176.25;1753.0;559.0;0.31888191671420424;3171520.0
+2019;4;INTER;INBR;True;True;False;Menos de quatro milhões de clientes;123.55;1437.0;489.0;0.34029227557411273;3957845.0
+2020;1;INTER;INBR;True;True;False;Mais de quatro milhões de clientes;163.51;1870.0;780.0;0.41711229946524064;4770298.0
+2020;2;INTER;INBR;True;True;False;Mais de quatro milhões de clientes;97.92;1401.0;557.0;0.3975731620271235;5688290.0
+2020;3;INTER;INBR;True;True;False;Mais de quatro milhões de clientes;126.38;1699.0;869.0;0.5114773396115362;6875798.0
+2020;4;INTER;INBR;True;True;False;Top 10;111.52;1634.0;900.0;0.5507955936352509;8069837.0
+2021;1;INTER;INBR;True;True;False;Top 10;129.26;2189.0;1245.0;0.568752855185016;9631304.0
+2021;2;INTER;INBR;True;True;False;Top 10 - Bancos e Financeiras;66.79;1786.0;766.0;0.42889137737961924;11467628.0
+2021;3;INTER;INBR;True;True;False;Top 10 - Bancos e Financeiras;55.99;1776.0;746.0;0.42004504504504503;13323223.0
+2021;4;INTER;INBR;True;True;False;Top 15 - Bancos, Financeiras e Instituições de Pagamento;53.9;1832.0;818.0;0.4465065502183406;15174249.0
+2022;1;INTER;INBR;True;True;False;Top 15 - Bancos, Financeiras e Instituições de Pagamento;48.85;1720.0;833.0;0.48430232558139535;17049709.0
+2022;3;INTER;INBR;True;True;False;Top 15 - Bancos, Financeiras e Instituições de Pagamento;36.81;2143.0;782.0;0.36490900606626225;21243511.0
+2022;4;INTER;INBR;True;True;False;Top 15 - Bancos, Financeiras e Instituições de Pagamento;36.9;1711.0;857.0;0.5008766803039159;23219194.0
+2023;1;INTER;INBR;True;True;False;Top 15 - Bancos, Financeiras e Instituições de Pagamento;33.24;1871.0;825.0;0.4409406734366649;24813684.0
+2023;2;INTER;INBR;True;True;False;Top 15 - Bancos, Financeiras e Instituições de Pagamento;29.38;1942.0;776.0;0.3995880535530381;26405463.0
+2023;3;INTER;INBR;True;True;False;Top 15 - Bancos, Financeiras e Instituições de Pagamento;24.91;1905.0;693.0;0.3637795275590551;27816541.0
+2023;4;INTER;INBR;True;True;False;Top 15 - Bancos, Financeiras e Instituições de Pagamento;18.61;1669.0;543.0;0.32534451767525463;29168040.0
+2024;1;INTER;INBR;True;True;False;Top 15 - Bancos, Financeiras e Instituições de Pagamento;24.06;1554.0;741.0;0.4768339768339768;30795160.0
+2024;2;INTER;INBR;True;True;False;Top 15 - Bancos, Financeiras e Instituições de Pagamento;82.16;5897.0;2659.0;0.45090724096998475;32352011.0
+2024;3;INTER;INBR;True;True;False;Top 15 - Bancos, Financeiras e Instituições de Pagamento;74.11;1407.0;488.0;0.3468372423596304;
+2024;4;INTER;INBR;True;True;False;Top 15 - Bancos, Financeiras e Instituições de Pagamento;74.96;1181.0;459.0;0.388653683319221;
+2025;1;INTER;INBR;True;True;False;Top 15 - Bancos, Financeiras e Instituições de Pagamento;62.14;1071.0;347.0;0.3239962651727358;
+2025;2;INTER;INBR;True;True;False;Top 15 - Bancos, Financeiras e Instituições de Pagamento;84.87;1146.0;398.0;0.3472949389179756;
+2025;3;INTER;INBR;True;True;False;Top 15 - Bancos, Financeiras e Instituições de Pagamento;96.37;1014.0;353.0;0.34812623274161736;
+2025;4;INTER;INBR;True;True;False;Top 15 - Bancos, Financeiras e Instituições de Pagamento;39.23;882.0;171.0;0.19387755102040816;
+2026;1;INTER;INBR;True;True;False;Top 15 - Bancos, Financeiras e Instituições de Pagamento;34.86;890.0;167.0;0.18764044943820224;
+2017;1;ITAU;ITUB4;True;False;True;Mais de quatro milhões de clientes;18.66;9275.0;1279.0;0.13789757412398923;68531765.0
+2017;2;ITAU;ITUB4;True;False;True;Mais de quatro milhões de clientes;21.33;9610.0;1468.0;0.15275754422476587;68821561.0
+2017;3;ITAU;ITUB4;True;False;True;Mais de quatro milhões de clientes;17.2;8983.0;1266.0;0.14093287320494266;73588791.0
+2017;4;ITAU;ITUB4;True;False;True;Mais de quatro milhões de clientes;15.65;7911.0;1165.0;0.1472633042598913;74422206.0
+2018;1;ITAU;ITUB4;True;False;True;Mais de quatro milhões de clientes;14.58;8278.0;1091.0;0.13179511959410486;74816448.0
+2018;2;ITAU;ITUB4;True;False;True;Mais de quatro milhões de clientes;18.61;8346.0;1409.0;0.16882338844955666;75682726.0
+2018;3;ITAU;ITUB4;True;False;True;Mais de quatro milhões de clientes;18.18;8798.0;1393.0;0.15833143896340077;76590668.0
+2018;4;ITAU;ITUB4;True;False;True;Mais de quatro milhões de clientes;17.33;9053.0;1339.0;0.14790677123605434;77253268.0
+2019;1;ITAU;ITUB4;True;False;True;Mais de quatro milhões de clientes;21.29;8565.0;1662.0;0.19404553415061296;78047957.0
+2019;2;ITAU;ITUB4;True;False;True;Mais de quatro milhões de clientes;19.49;9285.0;1555.0;0.1674744211093161;79749731.0
+2019;3;ITAU;ITUB4;True;False;True;Mais de quatro milhões de clientes;14.46;9161.0;1169.0;0.12760615653312957;80803452.0
+2019;4;ITAU;ITUB4;True;False;True;Mais de quatro milhões de clientes;16.85;8827.0;1377.0;0.155998640534723;81684646.0
+2020;1;ITAU;ITUB4;True;False;True;Mais de quatro milhões de clientes;21.66;9118.0;1785.0;0.19576661548585217;82378627.0
+2020;2;ITAU;ITUB4;True;False;True;Mais de quatro milhões de clientes;21.09;9834.0;1750.0;0.1779540370144397;82959663.0
+2020;3;ITAU;ITUB4;True;False;True;Mais de quatro milhões de clientes;32.3;10657.0;2687.0;0.25213474711457257;83164395.0
+2020;4;ITAU;ITUB4;True;False;True;Top 10;31.0;11713.0;2594.0;0.22146333134124477;83674760.0
+2021;1;ITAU;ITUB4;True;False;True;Top 10;19.72;6878.0;1636.0;0.23785984297760976;82955510.0
+2021;2;ITAU;ITUB4;True;False;True;Top 10 - Bancos e Financeiras;17.59;6527.0;1508.0;0.23104029416270874;85710724.0
+2021;3;ITAU;ITUB4;True;False;True;Top 10 - Bancos e Financeiras;15.05;6850.0;1318.0;0.19240875912408759;87568455.0
+2021;4;ITAU;ITUB4;True;False;True;Top 15 - Bancos, Financeiras e Instituições de Pagamento;12.76;5636.0;1153.0;0.2045777146912704;90314397.0
+2022;1;ITAU;ITUB4;True;False;True;Top 15 - Bancos, Financeiras e Instituições de Pagamento;12.26;5422.0;1136.0;0.20951678347473257;92631221.0
+2022;3;ITAU;ITUB4;True;False;True;Top 15 - Bancos, Financeiras e Instituições de Pagamento;14.4;5858.0;1375.0;0.23472174803687265;95481328.0
+2022;4;ITAU;ITUB4;True;False;True;Top 15 - Bancos, Financeiras e Instituições de Pagamento;15.26;6109.0;1492.0;0.24422982484858405;97712980.0
+2023;1;ITAU;ITUB4;True;False;True;Top 15 - Bancos, Financeiras e Instituições de Pagamento;15.8;6716.0;1565.0;0.23302561048243;99015603.0
+2023;2;ITAU;ITUB4;True;False;True;Top 15 - Bancos, Financeiras e Instituições de Pagamento;20.27;8062.0;2026.0;0.25130240635078144;99936353.0
+2023;3;ITAU;ITUB4;True;False;True;Top 15 - Bancos, Financeiras e Instituições de Pagamento;15.47;7656.0;1553.0;0.20284743991640544;100350109.0
+2023;4;ITAU;ITUB4;True;False;True;Top 15 - Bancos, Financeiras e Instituições de Pagamento;10.19;6029.0;1027.0;0.17034334052081607;100715079.0
+2024;1;ITAU;ITUB4;True;False;True;Top 15 - Bancos, Financeiras e Instituições de Pagamento;9.73;5107.0;980.0;0.19189347953788918;100630213.0
+2024;2;ITAU;ITUB4;True;False;True;Top 15 - Bancos, Financeiras e Instituições de Pagamento;34.68;20036.0;3444.0;0.17189059692553404;99277343.0
+2024;3;ITAU;ITUB4;True;False;True;Top 15 - Bancos, Financeiras e Instituições de Pagamento;49.97;4009.0;998.0;0.24893988525816912;
+2024;4;ITAU;ITUB4;True;False;True;Top 15 - Bancos, Financeiras e Instituições de Pagamento;41.27;3728.0;681.0;0.1826716738197425;
+2025;1;ITAU;ITUB4;True;False;True;Top 15 - Bancos, Financeiras e Instituições de Pagamento;34.11;3118.0;577.0;0.18505452212957024;
+2025;2;ITAU;ITUB4;True;False;True;Top 15 - Bancos, Financeiras e Instituições de Pagamento;39.35;3260.0;567.0;0.17392638036809815;
+2025;3;ITAU;ITUB4;True;False;True;Top 15 - Bancos, Financeiras e Instituições de Pagamento;45.13;3437.0;520.0;0.15129473377945882;
+2025;4;ITAU;ITUB4;True;False;True;Top 15 - Bancos, Financeiras e Instituições de Pagamento;36.24;3703.0;401.0;0.10829057520928977;
+2026;1;ITAU;ITUB4;True;False;True;Top 15 - Bancos, Financeiras e Instituições de Pagamento;34.12;3223.0;361.0;0.11200744647843625;
+2019;1;NUBANK;ROXO34;True;True;False;Mais de quatro milhões de clientes;0.0;2.0;0.0;0.0;4860954.0
+2019;2;NUBANK;ROXO34;True;True;False;Menos de quatro milhões de clientes;;3.0;0.0;0.0;6443.0
+2019;3;NUBANK;ROXO34;True;True;False;Menos de quatro milhões de clientes;;10.0;1.0;0.1;19728.0
+2019;4;NUBANK;ROXO34;True;True;False;Menos de quatro milhões de clientes;;15.0;0.0;0.0;45018.0
+2020;1;NUBANK;ROXO34;True;True;False;Menos de quatro milhões de clientes;;14.0;1.0;0.07142857142857142;2733789.0
+2020;2;NUBANK;ROXO34;True;True;False;Mais de quatro milhões de clientes;0.18;11.0;1.0;0.09090909090909091;5367754.0
+2020;3;NUBANK;ROXO34;True;True;False;Mais de quatro milhões de clientes;0.25;17.0;2.0;0.11764705882352941;7935364.0
+2020;4;NUBANK;ROXO34;True;True;False;Top 10;0.09;7.0;1.0;0.14285714285714285;10124543.0
+2021;1;NUBANK;ROXO34;True;True;False;Top 10;0.0;19.0;0.0;0.0;13774766.0
+2021;2;NUBANK;ROXO34;True;True;False;Top 10 - Bancos e Financeiras;0.0;25.0;0.0;0.0;17916854.0
+2021;3;NUBANK;ROXO34;True;True;False;Top 10 - Bancos e Financeiras;0.13;38.0;3.0;0.07894736842105263;22267718.0
+2021;4;NUBANK;ROXO34;True;True;False;Top 15 - Bancos, Financeiras e Instituições de Pagamento;5.26;1337.0;263.0;0.19670905011219147;49967783.0
+2022;1;NUBANK;ROXO34;True;True;False;Top 15 - Bancos, Financeiras e Instituições de Pagamento;7.48;1541.0;410.0;0.26606099935107075;54748336.0
+2022;3;NUBANK;ROXO34;True;True;False;Top 15 - Bancos, Financeiras e Instituições de Pagamento;9.76;2378.0;633.0;0.2661900756938604;64841518.0
+2022;4;NUBANK;ROXO34;True;True;False;Top 15 - Bancos, Financeiras e Instituições de Pagamento;6.9;1946.0;477.0;0.24511819116135664;69077761.0
+2023;1;NUBANK;ROXO34;True;True;False;Top 15 - Bancos, Financeiras e Instituições de Pagamento;6.58;2104.0;482.0;0.22908745247148288;73168970.0
+2023;2;NUBANK;ROXO34;True;True;False;Top 15 - Bancos, Financeiras e Instituições de Pagamento;7.82;2458.0;608.0;0.24735557363710334;77665209.0
+2023;3;NUBANK;ROXO34;True;True;False;Top 15 - Bancos, Financeiras e Instituições de Pagamento;8.44;3082.0;695.0;0.2255029201817002;82303144.0
+2023;4;NUBANK;ROXO34;True;True;False;Top 15 - Bancos, Financeiras e Instituições de Pagamento;7.97;3145.0;687.0;0.21844197138314786;86110428.0
+2024;1;NUBANK;ROXO34;True;True;False;Top 15 - Bancos, Financeiras e Instituições de Pagamento;6.23;2950.0;560.0;0.18983050847457628;89797615.0
+2024;2;NUBANK;ROXO34;True;True;False;Top 15 - Bancos, Financeiras e Instituições de Pagamento;21.58;9977.0;2020.0;0.20246567104339983;93532277.0
+2024;3;NUBANK;ROXO34;True;True;False;Top 15 - Bancos, Financeiras e Instituições de Pagamento;15.26;2352.0;308.0;0.13095238095238096;
+2024;4;NUBANK;ROXO34;True;True;False;Top 15 - Bancos, Financeiras e Instituições de Pagamento;12.22;2284.0;168.0;0.07355516637478109;
+2017;1;SANTANDER;SANB11;True;False;True;Mais de quatro milhões de clientes;21.87;6206.0;821.0;0.13229133097002901;37527740.0
+2017;2;SANTANDER;SANB11;True;False;True;Mais de quatro milhões de clientes;28.58;6700.0;1089.0;0.1625373134328358;38098966.0
+2017;3;SANTANDER;SANB11;True;False;True;Mais de quatro milhões de clientes;41.16;7681.0;1600.0;0.20830621012888947;38864588.0
+2017;4;SANTANDER;SANB11;True;False;True;Mais de quatro milhões de clientes;42.87;8700.0;1700.0;0.19540229885057472;39649999.0
+2018;1;SANTANDER;SANB11;True;False;True;Mais de quatro milhões de clientes;25.66;7756.0;1038.0;0.13383187209902012;40441975.0
+2018;2;SANTANDER;SANB11;True;False;True;Mais de quatro milhões de clientes;38.14;8467.0;1576.0;0.18613440415731664;41311632.0
+2018;3;SANTANDER;SANB11;True;False;True;Mais de quatro milhões de clientes;22.1;7950.0;933.0;0.11735849056603774;42206739.0
+2018;4;SANTANDER;SANB11;True;False;True;Mais de quatro milhões de clientes;24.04;7078.0;1033.0;0.14594518225487427;42967534.0
+2019;1;SANTANDER;SANB11;True;False;True;Mais de quatro milhões de clientes;25.93;7018.0;1135.0;0.16172698774579652;43755213.0
+2019;2;SANTANDER;SANB11;True;False;True;Mais de quatro milhões de clientes;23.75;7183.0;1080.0;0.1503550048726159;45459792.0
+2019;3;SANTANDER;SANB11;True;False;True;Mais de quatro milhões de clientes;21.03;7424.0;976.0;0.1314655172413793;46395772.0
+2019;4;SANTANDER;SANB11;True;False;True;Mais de quatro milhões de clientes;22.94;6560.0;1085.0;0.16539634146341464;47281933.0
+2020;1;SANTANDER;SANB11;True;False;True;Mais de quatro milhões de clientes;26.32;7003.0;1283.0;0.1832071969156076;48737277.0
+2020;2;SANTANDER;SANB11;True;False;True;Mais de quatro milhões de clientes;41.35;11006.0;2040.0;0.18535344357623115;49334145.0
+2020;3;SANTANDER;SANB11;True;False;True;Mais de quatro milhões de clientes;34.33;9604.0;1723.0;0.17940441482715536;50180892.0
+2020;4;SANTANDER;SANB11;True;False;True;Top 10;29.91;8977.0;1524.0;0.16976718280049014;50947844.0
+2021;1;SANTANDER;SANB11;True;False;True;Top 10;31.38;6596.0;1611.0;0.24423893268647665;51331984.0
+2021;2;SANTANDER;SANB11;True;False;True;Top 10 - Bancos e Financeiras;28.88;6728.0;1514.0;0.22502972651605233;52415407.0
+2021;3;SANTANDER;SANB11;True;False;True;Top 10 - Bancos e Financeiras;29.19;7235.0;1558.0;0.21534208707671043;53358153.0
+2021;4;SANTANDER;SANB11;True;False;True;Top 15 - Bancos, Financeiras e Instituições de Pagamento;24.58;6121.0;1397.0;0.22823068126123183;56812607.0
+2022;1;SANTANDER;SANB11;True;False;True;Top 15 - Bancos, Financeiras e Instituições de Pagamento;27.37;6113.0;1589.0;0.2599378373957141;58048730.0
+2022;3;SANTANDER;SANB11;True;False;True;Top 15 - Bancos, Financeiras e Instituições de Pagamento;28.54;6612.0;1740.0;0.2631578947368421;60961566.0
+2022;4;SANTANDER;SANB11;True;False;True;Top 15 - Bancos, Financeiras e Instituições de Pagamento;21.05;6018.0;1306.0;0.21701561980724493;62028657.0
+2023;1;SANTANDER;SANB11;True;False;True;Top 15 - Bancos, Financeiras e Instituições de Pagamento;16.62;5859.0;1050.0;0.17921146953405018;63141189.0
+2023;2;SANTANDER;SANB11;True;False;True;Top 15 - Bancos, Financeiras e Instituições de Pagamento;18.27;6077.0;1176.0;0.19351653776534475;64360563.0
+2023;3;SANTANDER;SANB11;True;False;True;Top 15 - Bancos, Financeiras e Instituições de Pagamento;15.59;5342.0;1020.0;0.19093972295020592;65403582.0
+2023;4;SANTANDER;SANB11;True;False;True;Top 15 - Bancos, Financeiras e Instituições de Pagamento;14.94;4884.0;991.0;0.2029074529074529;66304886.0
+2024;1;SANTANDER;SANB11;True;False;True;Top 15 - Bancos, Financeiras e Instituições de Pagamento;10.91;4017.0;732.0;0.18222554144884243;67078311.0
+2024;2;SANTANDER;SANB11;True;False;True;Top 15 - Bancos, Financeiras e Instituições de Pagamento;52.63;16563.0;3608.0;0.2178349332850329;68541115.0
+2024;3;SANTANDER;SANB11;True;False;True;Top 15 - Bancos, Financeiras e Instituições de Pagamento;34.59;2380.0;374.0;0.15714285714285714;
+2024;4;SANTANDER;SANB11;True;False;True;Top 15 - Bancos, Financeiras e Instituições de Pagamento;33.65;1973.0;305.0;0.15458692346680183;
+2025;1;SANTANDER;SANB11;True;False;True;Top 15 - Bancos, Financeiras e Instituições de Pagamento;37.5;1994.0;300.0;0.15045135406218657;
+2025;2;SANTANDER;SANB11;True;False;True;Top 15 - Bancos, Financeiras e Instituições de Pagamento;29.96;1717.0;191.0;0.11124053581828772;
+2025;3;SANTANDER;SANB11;True;False;True;Top 15 - Bancos, Financeiras e Instituições de Pagamento;29.25;1809.0;176.0;0.09729132117191819;
+2025;4;SANTANDER;SANB11;True;False;True;Top 15 - Bancos, Financeiras e Instituições de Pagamento;27.29;1556.0;144.0;0.09254498714652956;
+2026;1;SANTANDER;SANB11;True;False;True;Top 15 - Bancos, Financeiras e Instituições de Pagamento;34.49;1605.0;187.0;0.11651090342679128;
+2017;1;SOFISA;SFSA4;True;False;False;Menos de quatro milhões de clientes;;8.0;0.0;0.0;61599.0
+2017;2;SOFISA;SFSA4;True;False;False;Menos de quatro milhões de clientes;;7.0;0.0;0.0;70159.0
+2017;3;SOFISA;SFSA4;True;False;False;Menos de quatro milhões de clientes;;6.0;0.0;0.0;81639.0
+2017;4;SOFISA;SFSA4;True;False;False;Menos de quatro milhões de clientes;170.22;37.0;16.0;0.43243243243243246;93995.0
+2018;1;SOFISA;SFSA4;True;False;False;Menos de quatro milhões de clientes;;13.0;7.0;0.5384615384615384;103132.0
+2018;2;SOFISA;SFSA4;True;False;False;Menos de quatro milhões de clientes;;11.0;4.0;0.36363636363636365;113356.0
+2018;3;SOFISA;SFSA4;True;False;False;Menos de quatro milhões de clientes;;26.0;7.0;0.2692307692307692;124732.0
+2018;4;SOFISA;SFSA4;True;False;False;Menos de quatro milhões de clientes;;31.0;11.0;0.3548387096774194;131848.0
+2019;1;SOFISA;SFSA4;True;False;False;Menos de quatro milhões de clientes;;43.0;9.0;0.20930232558139536;140173.0
+2019;2;SOFISA;SFSA4;True;False;False;Menos de quatro milhões de clientes;;61.0;10.0;0.16393442622950818;161668.0
+2019;3;SOFISA;SFSA4;True;False;False;Menos de quatro milhões de clientes;133.65;141.0;27.0;0.19148936170212766;202010.0
+2019;4;SOFISA;SFSA4;True;False;False;Menos de quatro milhões de clientes;;57.0;13.0;0.22807017543859648;221280.0
+2020;1;SOFISA;SFSA4;True;False;False;Menos de quatro milhões de clientes;84.31;84.0;20.0;0.23809523809523808;237213.0
+2020;2;SOFISA;SFSA4;True;False;False;Menos de quatro milhões de clientes;;35.0;7.0;0.2;250294.0
+2020;3;SOFISA;SFSA4;True;False;False;Menos de quatro milhões de clientes;;80.0;17.0;0.2125;273589.0
+2020;4;SOFISA;SFSA4;True;False;False;Grupo Secundário;;47.0;13.0;0.2765957446808511;296505.0
+2021;1;SOFISA;SFSA4;True;False;False;Grupo Secundário;;68.0;25.0;0.36764705882352944;314921.0
+2021;2;SOFISA;SFSA4;True;False;False;Demais bancos e financeiras;119.21;70.0;41.0;0.5857142857142857;343924.0
+2021;3;SOFISA;SFSA4;True;False;False;Demais bancos e financeiras;90.68;77.0;37.0;0.4805194805194805;407986.0
+2021;4;SOFISA;SFSA4;True;False;False;Demais Bancos, Financeiras e Instituições de Pagamento;;59.0;26.0;0.4406779661016949;437525.0
+2022;1;SOFISA;SFSA4;True;False;False;Demais Bancos, Financeiras e Instituições de Pagamento;;61.0;17.0;0.2786885245901639;465763.0
+2022;3;SOFISA;SFSA4;True;False;False;Demais Bancos, Financeiras e Instituições de Pagamento;68.21;96.0;40.0;0.4166666666666667;586409.0
+2022;4;SOFISA;SFSA4;True;False;False;Demais Bancos, Financeiras e Instituições de Pagamento;;67.0;23.0;0.34328358208955223;672226.0
+2023;1;SOFISA;SFSA4;True;False;False;Demais Bancos, Financeiras e Instituições de Pagamento;;54.0;26.0;0.48148148148148145;751292.0
+2023;2;SOFISA;SFSA4;True;False;False;Demais Bancos, Financeiras e Instituições de Pagamento;45.5;93.0;37.0;0.3978494623655914;813068.0
+2023;3;SOFISA;SFSA4;True;False;False;Demais Bancos, Financeiras e Instituições de Pagamento;52.63;103.0;46.0;0.44660194174757284;873915.0
+2023;4;SOFISA;SFSA4;True;False;False;Demais Bancos, Financeiras e Instituições de Pagamento;37.35;77.0;35.0;0.45454545454545453;936992.0
+2024;1;SOFISA;SFSA4;True;False;False;Demais Bancos, Financeiras e Instituições de Pagamento;;71.0;27.0;0.38028169014084506;1016803.0
+2024;2;SOFISA;SFSA4;True;False;False;Demais Bancos, Financeiras e Instituições de Pagamento;74.5;191.0;82.0;0.4293193717277487;1098178.0
+2024;3;SOFISA;SFSA4;True;False;False;Demais Bancos, Financeiras e Instituições de Pagamento;90.75;190.0;101.0;0.531578947368421;
+2024;4;SOFISA;SFSA4;True;False;False;Demais Bancos, Financeiras e Instituições de Pagamento;95.53;182.0;92.0;0.5054945054945055;
+2025;1;SOFISA;SFSA4;True;False;False;Demais Bancos, Financeiras e Instituições de Pagamento;180.25;259.0;175.0;0.6756756756756757;
+2025;2;SOFISA;SFSA4;True;False;False;Demais Bancos, Financeiras e Instituições de Pagamento;174.14;327.0;191.0;0.5840978593272171;
+2025;3;SOFISA;SFSA4;True;False;False;Demais Bancos, Financeiras e Instituições de Pagamento;198.2;291.0;157.0;0.5395189003436426;
+2025;4;SOFISA;SFSA4;True;False;False;Demais Bancos, Financeiras e Instituições de Pagamento;153.41;208.0;126.0;0.6057692307692307;
+2026;1;SOFISA;SFSA4;True;False;False;Demais Bancos, Financeiras e Instituições de Pagamento;169.28;318.0;164.0;0.5157232704402516;
