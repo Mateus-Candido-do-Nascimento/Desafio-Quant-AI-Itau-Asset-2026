@@ -1,0 +1,447 @@
+Ano;Trimestre;Tipo;Irregularidade;Aplicação;
+2025;2º;Reclamação regulada;Abertura de conta de depósito com documentação ausente, insuficiente ou falsa;"Para os casos envolvendo a abertura de conta de depósito sem documentação necessária e aplicável quando, por exemplo, houver indícios de que: 
+- por ocasião da abertura, não houve a qualificação completa do titular;
+- a instituição não dispõe de cópia de todos os documentos utilizados para a abertura de conta (ativa) ou as cópias disponíveis não estão legíveis;
+- a instituição alega não possuir cópia de documentos de abertura de conta encerrada há menos de 5 anos;
+- para as situações em que são encontrados indícios de que a instituição não fez qualquer outra verificação adicional para certificar-se da legitimidade da documentação apresentada, ou não consultou a situação do(s) titular(es) da conta no CPF, para fins de abertura da conta.
+";
+2025;2º;Reclamação regulada;Abertura de conta de pagamento sem documentação necessária ou com documentação falsa;"Para os casos envolvendo a abertura irregular de conta de pagamento e aplicável quando, por exemplo, houver indícios de que: 
+- por ocasião da abertura, não houve a qualificação completa do titular;
+- a instituição não dispõe de cópia de todos os documentos utilizados para a abertura de conta de pagamento (ativa) ou as cópias disponíveis não estão legíveis;
+- a instituição alega não possuir cópia de documentos de abertura de conta de pagamento;
+- a instituição não fez qualquer verificação adicional para certificar-se da legitimidade da documentação apresentada, ou não consultou a situação do(s) titular(es) da conta no CPF, para fins de abertura da conta de pagamento.";
+2025;2º;Reclamação regulada;Abertura de conta de pagamento sem documentação necessária ou com documentação falsa - instituição de pagamento;"""Para os casos envolvendo a abertura irregular de conta de pagamento por instituição de pagamento e aplicável quando, por exemplo, houver indícios de que: 
+- por ocasião da abertura, não houve a qualificação completa do titular;
+- a instituição não dispõe de cópia de todos os documentos utilizados para a abertura de conta de pagamento (ativa) ou as cópias disponíveis não estão legíveis;
+- a instituição alega não possuir cópia de documentos de abertura de conta de pagamento;
+- a instituição não fez qualquer verificação adicional para certificar-se da legitimidade da documentação apresentada, ou não consultou a situação do(s) titular(es) da conta no CPF, para fins de abertura da conta de pagamento.""
+";
+2025;2º;Reclamação regulada;Ausência de informações sobre as regras de funcionamento nos contratos de cartões de crédito ou seu descumprimento;"Para os casos envolvendo ausência de previsão das regras de funcionamento nos contratos de prestação de serviços vinculados a cartão de crédito ou seu descumprimento, inclusive aquelas relativas às situações em que a utilização do cartão origina operações de crédito, bem como as respectivas sistemáticas de incidência de encargos.";
+2025;2º;Reclamação regulada;Ausência de informações sobre as regras de funcionamento nos contratos de cartões de crédito ou seu descumprimento - instituição de pagamento;"Para os casos envolvendo ausência de previsão das regras de funcionamento nos contratos de prestação de serviços vinculados a cartão de crédito ou seu descumprimento, inclusive aquelas relativas às situações em que a utilização do cartão origina operações de crédito, bem como as respectivas sistemáticas de incidência de encargos.";
+2025;2º;Reclamação regulada;Ausência de título adequado relativo a cartão de crédito;Para os casos envolvendo ausência de contratação ou contratação inadequada de cartão de crédito.;
+2025;2º;Reclamação regulada;Ausência de título adequado relativo a cartão de crédito consignado;Para os casos envolvendo ausência de contratação ou contratação inadequada de cartão de crédito consignado.;
+2025;2º;Reclamação regulada;Bloqueio de valores ou de conta fora do âmbito do Pix;Para os casos em que a instituição realiza o bloqueio indevido de valores ou da própria conta em situações diversas das previstas pelas regras do Pix.;
+2025;2º;Reclamação regulada;Bloqueio de valores ou de conta fora do âmbito do Pix - instituição de pagamento;Para os casos em que a instituição realiza o bloqueio indevido de valores ou da própria conta em situações diversas das previstas pelas regras do Pix.;
+2025;2º;Reclamação não regulada;Cadastro positivo envolvendo instituição de pagamento;"Reclamações diversas sobre o Cadastro Positivo envolvendo instituição de pagamento, conforme a Lei 12.414/2011, com alterações feitas pela Lei Complementar 166/2019, não sujeita a fiscalização do BCB.";
+2025;2º;Reclamação não regulada;Cadastro positivo envolvendo instituição financeira;"Reclamações diversas sobre o Cadastro Positivo envolvendo instituição financeira, conforme a Lei 12.414/2011, com alterações feitas pela Lei Complementar 166/2019, não sujeita a fiscalização do BCB.";
+2025;2º;Reclamação regulada;Cancelamento de contrato a pedido do cliente de conta de pagamento pós-paga não atendido - instituição de pagamento;Para os casos em que a instituição de pagamento se recusa ou cria obstáculos para efetuar o cancelamento do contrato solicitado pelo cliente de conta de pagamento pós-paga.;
+2025;2º;Reclamação regulada;Cancelamento de contrato a pedido do cliente de conta de pagamento pré-paga não atendido - instituição de pagamento;Para os casos em que a instituição de pagamento se recusa ou cria obstáculos para efetuar o cancelamento do contrato solicitado pelo cliente de conta de pagamento pré-paga.;
+2025;2º;Reclamação regulada;Cancelamento de contrato a pedido do cliente não atendido por instituição financeira;Para os casos em que a instituição financeira se recusa ou cria obstáculos para efetuar o cancelamento do contrato solicitado pelo cliente.;
+2025;2º;Reclamação não regulada;Cancelamento de contrato por iniciativa - instituição de pagamento;Para as situações de cancelamento de contratos por iniciativa da instituição de pagamento.;
+2025;2º;Reclamação não regulada;Cancelamento de contrato por iniciativa da instituição financeira;"Para as situações de cancelamento de contratos por parte da instituição financeira sem aviso ao cliente, exceto nos casos em que haja previsão regulamentar.";
+2025;2º;Reclamação não regulada;Cartão pré-pago - instituição de pagamento;"Para situações envolvendo cartão pré-pago em moeda nacional ou estrangeira, tais como:
+- não aceitação do cartão pré-pago em estabelecimentos comerciais, inclusive quando da utilização de cartões em moeda estrangeira no exterior; 
+- fornecimento de cartão com problemas;
+- demora no envio de 2ª via de cartão;
+- consulta de saldo e extrato.";
+2025;2º;Reclamação não regulada;Cartões de débito;"Para situações relacionadas a cartões de débito, tais como:
+- dificuldades de obtenção do cartão;
+- fornecimento de cartão com problemas;
+- demora no envio de 2ª via de cartão; 
+- demora no envio de cartão com nova validade.
+";
+2025;2º;Reclamação não regulada;Cartões de débito - instituição de pagamento;"Para situações relacionadas a cartões de débito, tais como:
+- dificuldades de obtenção do cartão;
+- fornecimento de cartão com problemas;
+- demora no envio de 2ª via de cartão; 
+- demora no envio de cartão com nova validade.";
+2025;2º;Reclamação regulada;Cobrança irregular de tarifa em conta de pagamento pós-paga - instituição de pagamento;Para os casos envolvendo a cobrança irregular de tarifa em conta de pagamento pós-paga por instituição de pagamento.;
+2025;2º;Reclamação regulada;Cobrança irregular de tarifa em conta de pagamento pré-paga - instituição de pagamento;Para os casos envolvendo a cobrança irregular de tarifa em conta de pagamento pré-paga por instituição de pagamento.;
+2025;2º;Reclamação regulada;Cobrança irregular de tarifa em operação de crédito;Para os casos de cobrança de tarifa envolvendo operação de crédito.;
+2025;2º;Reclamação regulada;Cobrança irregular de tarifa relacionada a conta ou serviços acessórios à conta;"Para os casos de cobrança irregular de tarifas relacionadas a conta e seus acessórios, tais como limite de cheque especial, adiantamento a depositantes e pacote de serviços.";
+2025;2º;Reclamação regulada;Cobrança irregular de tarifa relacionada ao cartão de crédito;Para os casos de cobrança irregular de tarifa relacionada ao cartão de crédito.;
+2025;2º;Reclamação regulada;Cobrança irregular para fins de remuneração de correspondentes no País;"Para os casos envolvendo cobrança adicional de tarifa, comissão, valores referentes a ressarcimento de serviços prestados por terceiros ou qualquer outra forma de remuneração, pelo fornecimento de produtos ou serviços por correspondente no País.";
+2025;2º;Reclamação não regulada;Cobranças diversas;"Para situações diversas relacionados a cobrança, tais como:
+- cobrança de dívida em atraso, sem especificar o valor correspondente a cada item cobrado;
+- cobrança de ressarcimento de serviços prestados por terceiros;
+- imposição de constrangimentos em cobranças de dívidas, inclusive cartão de crédito.";
+2025;2º;Reclamação não regulada;Cobranças diversas de IPs;"Para situações diversas relacionados a cobrança por IP, tais como:
+- cobrança de dívida em atraso, sem especificar o valor correspondente a cada item cobrado;
+- cobrança de ressarcimento de serviços prestados por terceiros;
+- imposição de constrangimentos em cobranças de dívidas, inclusive cartão de crédito.";
+2025;2º;Reclamação regulada;Concessão de crédito (exceto consignado) sem a formalização do título adequado;"Para os casos envolvendo a concessão de crédito em todas as demais modalidades por parte da instituição financeira (exceto as de consignado), sem existir, contudo, a formalização do título constitutivo da dívida ou a formalização do título constitutivo da dívida com base em documentação falsa. Nesta rubrica não estão incluídas as situações relacionadas à conta de pagamento pós paga de cartões de crédito (exceto os de consignado) sem a formalização do título adequado.";
+2025;2º;Reclamação regulada;Concessão de crédito consignado sem a formalização do título adequado;"Para os casos envolvendo a concessão de crédito exclusivamente na modalidade consignado, por parte da instituição financeira, sem existir, contudo, a formalização do título constitutivo da dívida ou a formalização do título constitutivo da dívida com base em documentação falsa. Nesta rubrica não estão incluídas as situações relacionadas à conta de pagamento pós paga de cartão de crédito consignado sem a formalização do título adequado.";
+2025;2º;Reclamação não regulada;Crédito consignado;"Para situações como descrição em holerite, instabilidade no portal de consignação, as relacionadas a detalhes contratuais ou operacionais entre instituição financeira e empregador, entre outras.";
+2025;2º;Reclamação não regulada;Descumprimento contratual;"Para as situações envolvendo descumprimento, por parte da instituição financeira, de cláusulas contratuais de assuntos não sujeitos à supervisão do Banco Central.";
+2025;2º;Reclamação não regulada;Descumprimento contratual - instituição de pagamento;"Para as situações envolvendo descumprimento, por parte da instituição de pagamento, de cláusulas contratuais de assuntos não sujeitos à supervisão do Banco Central.";
+2025;2º;Reclamação não regulada;Descumprimento de ordem judicial;"Para as situações envolvendo descumprimento, por parte da instituição financeira, de ordem judicial, tais como:
+- bloqueio ou desbloqueio de conta;
+- fornecimento de extratos e outros documentos;
+- exclusão de restrições cadastrais. ";
+2025;2º;Reclamação regulada;Descumprimento de prazo de resposta da reclamação registrada no BCB;"Para os casos de descumprimento do prazo de resposta por parte da instituição financeira às reclamações registradas no Banco Central do Brasil.
+";
+2025;2º;Reclamação regulada;Descumprimento de prazo de resposta da reclamação registrada no BCB - instituição de pagamento;"Para os casos de descumprimento do prazo de resposta por parte da instituição de pagamento às reclamações registradas no Banco Central do Brasil.
+";
+2025;2º;Reclamação regulada;Descumprimento do horário de funcionamento das instituições financeiras;"Para os casos envolvendo irregularidades relacionadas a descumprimento de horário de funcionamento das instituições financeiras, tais como:
+- não divulgação do horário de funcionamento;
+- não divulgação de alteração no horário de funcionamento;
+- não cumprimento do horário mínimo (5 horas diárias ininterruptas, com atendimento obrigatório no período de 12h às 15h);
+- suspensão do atendimento.";
+2025;2º;Reclamação regulada;Descumprimento dos prazos para saques em espécie;"Para os casos de descumprimento do prazo para saque: até R$ 5.000,00 no mesmo expediente; até R$ 50.000,00 até o expediente seguinte; igual ou superior a R$ 50.000,00 após 3 dias.";
+2025;2º;Reclamação regulada;Débito em conta de pagamento pré-paga não autorizado pelo cliente, ou não cumprimento das regras aplicáveis;"Para as situações envolvendo débitos em conta de pagamento pré-paga comandados pela instituição financeira sem a respectiva autorização do cliente, ou não cumprimento das regras aplicáveis.";
+2025;2º;Reclamação regulada;Débito em conta de pagamento pré-paga não autorizado pelo cliente, ou não cumprimento das regras aplicáveis - instituição de pagamento;"Para as situações envolvendo débitos em conta de pagamento pré-paga comandados pela instituição de pagamento sem a respectiva autorização do cliente, ou não cumprimento das regras aplicáveis.";
+2025;2º;Reclamação regulada;Débito em conta não autorizado pelo cliente, ou não cumprimento das regras aplicáveis;"Para as situações envolvendo débitos em conta comandados pela instituição financeira sem a respectiva autorização do cliente, ou não cumprimento das regras aplicáveis.";
+2025;2º;Reclamação regulada;Débito em conta-salário não autorizado pelo cliente, ou não cumprimento das regras aplicáveis;"Para as situações envolvendo débitos em conta-salário comandados pela instituição financeira sem a respectiva autorização do cliente, ou não cumprimento das regras aplicáveis.";
+2025;2º;Reclamação não regulada;Dificuldade na liberação ou substituição de bem;"Para as situações relacionadas a bens dados em garantia, tais como:
+- demora na substituição de bens dados em garantia;
+- demora no fornecimento de documentos (2a via de DUT, Kit para Opção de Compra) necessários à liberação de veículo (arrendamento mercantil);
+- demora na liberação de bem dado em garantia de financiamento (liberação de gravame em veículos) após a quitação da operação;
+- demora na liberação de hipoteca ou alienação fiduciária de imóveis.";
+2025;2º;Reclamação não regulada;Dificuldade para efetuar resgate antecipado de aplicação;Para os casos envolvendo recusa ou embaraços criados pela instituição financeira para o resgate antecipado de aplicações.;
+2025;2º;Reclamação regulada;Encaminhamento de instrumentos de pagamento não solicitados;Para os casos em que a instituição financeira encaminha ao domicílio do cliente ou usuário instrumento de pagamento sem sua expressa solicitação ou autorização.;
+2025;2º;Reclamação regulada;Encaminhamento de instrumentos de pagamento não solicitados - instituição de pagamento;"Para os casos em que a instituição de pagamento encaminha ao domicílio do cliente ou usuário instrumento de pagamento sem sua expressa solicitação ou autorização
+";
+2025;2º;Reclamação regulada;Falta de transparência na redação de documentos;"Para os casos envolvendo a não utilização de redação clara, objetiva e adequada à natureza e à complexidade da operação ou do serviço, em contratos, recibos, extratos, comprovantes e documentos destinados ao público, de forma a permitir o entendimento do conteúdo e a identificação de prazos, valores, encargos, multas, datas, locais e demais condições.";
+2025;2º;Reclamação regulada;Falta de transparência na redação de documentos - instituição de pagamento;"Para os casos envolvendo a não utilização por parte de instituição de pagamento de redação clara, objetiva e adequada à natureza e à complexidade da operação ou do serviço, em contratos, recibos, extratos, comprovantes e documentos destinados ao público, de forma a permitir o entendimento do conteúdo e a identificação de prazos, valores, encargos, multas, datas, locais e demais condições.
+";
+2025;2º;Reclamação não regulada;Golpe;Para as situações relacionadas à ação praticada por eventuais golpistas.;
+2025;2º;Reclamação regulada;Inclusão de dados incorretos no CCS (Cadastro de Clientes do Sistema Financeiro Nacional);"Para os casos envolvendo a inclusão, por parte de instituição financeira, de dados incorretos no Cadastro de Clientes do Sistema Financeiro Nacional (CCS).";
+2025;2º;Reclamação regulada;Inclusão de dados incorretos no CCS (Cadastro de Clientes do Sistema Financeiro Nacional) - instituição de pagamento;"Para os casos envolvendo a inclusão, por parte de instituição de pagamento, de dados incorretos no Cadastro de Clientes do Sistema Financeiro Nacional (CCS).";
+2025;2º;Reclamação regulada;Insatisfação com a resposta recebida da instituição financeira referente à reclamação registrada no BCB;"Para os casos de insatisfação com a resposta (incompleta ou incorreta) recebida da instituição financeira à reclamação registrada no Banco Central do Brasil.
+";
+2025;2º;Reclamação regulada;Insatisfação com a resposta referente à reclamação registrada no BCB recebida - instituição de pagamento;"Para os casos de insatisfação com a resposta (incompleta ou incorreta) recebida da instituição de pagamento à reclamação registrada no Banco Central do Brasil.
+
+";
+2025;2º;Reclamação regulada;Insatisfação com o atendimento prestado pelo SAC ou Central de Relacionamento;"Para situações diversas envolvendo atendimento prestado pelo Serviço de Atendimento ao Consumidor (SAC) ou Central de Relacionamento, tais como:
+- atendimento descortês; 
+- dificuldade de acesso;
+- não estabelecimento de prazos ou não cumprimento dos prazos estabelecidos para resposta às consultas e reclamações;
+- não fornecimento do número de protocolo do SAC pela instituição financeira;
+- não disponibilização/entrega de gravação telefônica solicitada pelo cliente.";
+2025;2º;Reclamação regulada;Insatisfação com o atendimento prestado pelo SAC ou Central de Relacionamento - instituição de pagamento;"Para situações diversas envolvendo atendimento prestado pelo Serviço de Atendimento ao Consumidor (SAC) ou Central de Relacionamento, tais como:
+- atendimento descortês; 
+- dificuldade de acesso;
+- não estabelecimento de prazos ou não cumprimento dos prazos estabelecidos para resposta às consultas e reclamações;
+- não fornecimento do número de protocolo do SAC pela instituição de pagamento;
+- não disponibilização/entrega de gravação telefônica solicitada pelo cliente.";
+2025;2º;Reclamação regulada;Integridade, confiabilidade, segurança, sigilo e legitimidade das operações e serviços  - conta de pagamento pré-paga;"Para as situações envolvendo integridade, confiabilidade, segurança ou o sigilo das transações realizadas, bem como a legitimidade das operações contratadas e dos serviços prestados relacionados a conta de pagamento pré-paga, tais como:
+- Cobrança de transação que deveria ter sido estornada;
+- Cobrança indevida de transação;
+- Compras não reconhecidas feitas com instrumento de pagamento pré-pago;
+- Cobranças em duplicidade, em conta de pagamento pré-pago.";
+2025;2º;Reclamação regulada;Irregularidade na portabilidade salarial para contas de pagamento pré-pagas - instituição de pagamento;"Para as situações relacionadas à portabilidade salarial para contas de pagamento pré-pagas, nas quais a instituição de pagamento que intermediar a comunicação deve confirmar e garantir:
+- a identidade do beneficiário;
+- a legitimidade da comunicação;
+- a autenticidade das informações exigidas.";
+2025;2º;Reclamação regulada;Irregularidades envolvendo a abertura de conta-salário;"Para os casos em que a instituição financeira, contratada para realizar serviços de pagamento de salários, proventos, soldos, vencimentos, aposentadorias, pensões e similares, não faz os respectivos créditos em conta-salário ou não cumpre as eventuais condições e restrições quanto à abertura da conta-salário.
+";
+2025;2º;Reclamação regulada;Irregularidades no processo de encerramento de conta de depósitos à vista;"Para as situações envolvendo o não cumprimento das condições exigidas para o encerramento de conta de depósito à vista, tais como:
+- prazo para adoção das providências relacionadas à rescisão do contrato;
+- expedição de aviso ao correntista.";
+2025;2º;Reclamação regulada;Irregularidades no processo de encerramento de conta de pagamento;"Para as situações envolvendo o não cumprimento das condições exigidas para o encerramento de conta de pagamento, tais como expedição de aviso ao cliente.";
+2025;2º;Reclamação regulada;Irregularidades no processo de encerramento de conta de pagamento - instituição de pagamento;"Para as situações envolvendo o não cumprimento das condições exigidas para o encerramento de conta de pagamento por instituição de pagamento, tais como expedição de aviso ao cliente.
+";
+2025;2º;Reclamação regulada;Irregularidades relacionadas a boletos de pagamento (exceto ausência de contrato com beneficiário);"Para os casos envolvendo boletos de pagamento, tais como:
+- ausência de informações mínimas obrigatórias em boletos de pagamento; 
+- apresentação, não autorizada, por meio eletrônico (Débito Direto Autorizado - DDA).";
+2025;2º;Reclamação regulada;Irregularidades relacionadas a boletos de pagamento (exceto ausência de contrato com beneficiário) para IPs;"Para os casos envolvendo boletos de pagamento, tais como:
+- ausência de informações mínimas obrigatórias em boletos de pagamento; 
+- apresentação, não autorizada, por meio eletrônico (Débito Direto Autorizado - DDA).
+";
+2025;2º;Reclamação regulada;Irregularidades relacionadas a cédulas ou moedas;"Para as situações relacionadas ao meio circulante, tais como:
+- recusa em substituir cédulas em mau estado de conservação;
+- recusa em substituir cédulas suspeita de ter sido danificada por acionamento de dispositivo antifurto, na hipóstese de saque, inclusive em terminais de autoatendimento;
+- não ressarcimento ao apresentante do valor correspondente  aos exemplares declarados legítimos, após o resultado do exame do Banco Central.";
+2025;2º;Reclamação regulada;Irregularidades relacionadas a informações e liquidação de valores a receber no sistema SVR do BCB - instituições de pagamento;Para as situações envolvendo falta de remessa ou remessa intempestiva de informações sobre valores a receber ou liquidação intempestiva de valores a receber no Sistema de Informações de Valores a Receber (SVR) do BCB por parte de instituições de pagamento.;
+2025;2º;Reclamação regulada;Irregularidades relacionadas a informações e liquidação de valores a receber no sistema SVR do BCB por parte de instituições financeiras;Para as situações envolvendo falta de remessa ou remessa intempestiva de informações sobre valores a receber ou liquidação intempestiva de valores a receber no Sistema de Informações de Valores a Receber (SVR) do BCB por parte de instituições financeiras.;
+2025;2º;Reclamação regulada;Irregularidades relacionadas a operações no mercado de câmbio;"Para os casos envolvendo operações no mercado de câmbio, tais como:
+- demora para aviso de recepção de ordem de pagamento do exterior;
+- remessa para liquidação pronta não cumprida no prazo.";
+2025;2º;Reclamação regulada;Irregularidades relacionadas a operações no mercado de câmbio para IPs;"Para os casos envolvendo operações no mercado de câmbio para IPs, tais como:
+- demora para aviso de recepção de ordem de pagamento do exterior;
+- remessa para liquidação pronta não cumprida no prazo.";
+2025;2º;Reclamação regulada;Irregularidades relacionadas a registros no Cadastro de Emitentes de Cheques sem Fundos (CCF);"Para os casos envolvendo registro incorreto por parte de instituição financeira, relacionadas à inclusão ou exclusão no Cadastro de Emitentes de Cheques sem Fundos (CCF), tais como: 
+- inclusão indevida; 
+- inclusão sem a devida comunicação ao cliente; 
+- não inclusão; 
+- exclusão indevida;
+- não exclusão;
+- descumprimento do prazo de exclusão;
+- não fornecimento ao emitente de cópia de cheque incluído no CCF.";
+2025;2º;Reclamação regulada;Irregularidades relacionadas ao acompanhamento de conta;"Para os casos envolvendo falhas no acompanhamento de conta de depósito por parte da instituição financeira (""conheça o seu cliente"").";
+2025;2º;Reclamação regulada;Irregularidades relacionadas ao acompanhamento de conta de pagamento;"Para os casos envolvendo falhas no acompanhamento de conta de pagamento por parte da instituição financeira (""conheça o seu cliente"").";
+2025;2º;Reclamação regulada;Irregularidades relacionadas ao acompanhamento de conta de pagamento - instituição de pagamento;"Para os casos envolvendo falhas no acompanhamento de conta de pagamento por parte da instituição de pagamento (""conheça o seu cliente""). ";
+2025;2º;Reclamação regulada;Irregularidades relacionadas ao atendimento da Ouvidoria;"Para os casos relacionados ao atendimento por parte da ouvidoria da instituição financeira, tais como:
+- dificuldade de atendimento;
+- encaminhamento para outros canais de atendimento já procurados pelo cliente;
+- não fornecimento de protocolo de atendimento;
+- recusa em fornecer esclarecimentos ou informar o prazo de resposta.";
+2025;2º;Reclamação regulada;Irregularidades relacionadas ao atendimento da Ouvidoria - instituição de pagamento;"""Para os casos relacionados ao atendimento por parte da ouvidoria da instituição de pagamento, tais como:
+- dificuldade de atendimento;
+- encaminhamento para outros canais de atendimento já procurados pelo cliente;
+- não fornecimento de protocolo de atendimento;
+- recusa em fornecer esclarecimentos ou informar o prazo de resposta;
+- descumprimento de prazo de resposta""
+";
+2025;2º;Reclamação regulada;Irregularidades relacionadas ao Custo Efetivo Total (CET) de operação de crédito;"Para as situações envolvendo irregularidades relacionadas ao Custo Efetivo Total (CET) de operação de crédito, tais como: 
+- ausência no contrato, de forma destacada, da planilha de cálculo do CET;
+- recusa em fornecer planilha de cálculo;
+- não comunicação do CET ao cliente, previamente à contratação;
+- cálculo incorreto.";
+2025;2º;Reclamação regulada;Irregularidades relacionadas ao fornecimento de documento para liquidação antecipada de operações de crédito;Para os casos envolvendo o não fornecimento ao cliente de boletos ou outro documento que viabilize a liquidação antecipada de operações de crédito.;
+2025;2º;Reclamação regulada;Irregularidades relacionadas ao fornecimento de documentos - instituição de pagamento;"Para os casos envolvendo o não fornecimento por instituição de pagamento ao cliente ou usuário de documentos solicitados, tais como extratos em geral, recibos, comprovantes, faturas.
+";
+2025;2º;Reclamação regulada;Irregularidades relacionadas ao fornecimento de documentos por conta de pagamentos pós-paga - instituição de pagamento;"Para os casos envolvendo o não fornecimento por conta de pagamento pós-paga ao cliente ou usuário de documentos solicitados, tais como extratos em geral, recibos, comprovantes, faturas.";
+2025;2º;Reclamação regulada;Irregularidades relacionadas ao fornecimento de documentos por conta de pagamentos pré-paga - instituição de pagamento;"Para os casos envolvendo o não fornecimento por conta de pagamento pré-paga ao cliente ou usuário de documentos solicitados, tais como extratos em geral, recibos, comprovantes, faturas.";
+2025;2º;Reclamação regulada;Irregularidades relacionadas ao fornecimento de documentos relativos a cartão de crédito;"Para os casos envolvendo o não fornecimento ao cliente de documentos relacionados a cartão de crédito, tais como segundas vias de fatura, contratos de adesão e faturas.";
+2025;2º;Reclamação regulada;Irregularidades relacionadas ao fornecimento de documentos relativos a conta;"Para os casos envolvendo o não fornecimento ao cliente de documentos relacionados a conta, tais como contrato de abertura, extratos e comprovantes.";
+2025;2º;Reclamação regulada;Irregularidades relacionadas ao fornecimento de documentos relativos a operação de crédito, exceto para liquidação antecipada e descritivo do crédito.;"Para os casos de não recebimento tempestivo dos documentos relacionados à operação de crédito, inclusive financiamento imobiliário, tais como: contrato da operação; comprovantes de pagamento; extratos; boletos de parcelas. Não se aplica a situações relacionadas à liquidação antecipada e ao descritivo da operação de crédito (DDC).";
+2025;2º;Reclamação regulada;Irregularidades relacionadas ao fornecimento de informações relativas a operação de crédito contratada (DDC);Para os casos envolvendo o não fornecimento ao cliente de informações descritivas das suas operações de crédito (DDC).;
+2025;2º;Reclamação regulada;Irregularidades relacionadas ao fornecimento de outros documentos, exceto os relativos a cartão de crédito, conta e operação de crédito;"Para os casos envolvendo o não fornecimento ao cliente ou usuário de documentos solicitados, tais como extratos em geral, recibos, comprovantes, desde que não se refiram a cartão de crédito, conta ou operação de crédito.";
+2025;2º;Reclamação regulada;Irregularidades relacionadas ao Sistema de Informações de Crédito do Banco Central (SCR);"Para os casos envolvendo registro ou procedimento incorreto, por parte de instituição financeira, no Sistema de Informações de Crédito do Banco Central (SCR), tais como: 
+
+- consulta de dados sem autorização prévia do cliente;
+- descumprimento de obrigações relacionadas à inclusão/exclusão/alteração de dados;
+- inclusão indevida;
+- inclusão de valores incorretos;
+- não exclusão de inscrições feitas quando constatadas fraudes na concessão do crédito.";
+2025;2º;Reclamação regulada;Irregularidades relacionadas ao Sistema de Informações de Crédito do Banco Central (SCR) - instituição de pagamento;"""Para os casos envolvendo registro ou procedimento incorreto, por parte de instituição de pagamento, no Sistema de Informações de Crédito do Banco Central, tais como: 
+- consulta de dados sem autorização prévia do cliente;
+- descumprimento de obrigações relacionadas à inclusão/exclusão/alteração de dados;
+- inclusão indevida;
+- inclusão de valores incorretos;
+- não exclusão de inscrições feitas quando constatadas fraudes na concessão do crédito.""
+";
+2025;2º;Reclamação regulada;Irregularidades relacionadas à devolução de cheques;"Para as situações relacionadas à devolução de cheques, tais como:
+- devolução pelo motivo incorreto;
+- não comunicação ao emitente do cheque, quando da devolução pelos motivos 12, 13 e 14; 
+- não fornecimento (ou fornecimento incompleto) de informações sobre o emitente de cheque devolvido;
+- não fornecimento, ao emitente do cheque incluído no CCF, de informações sobre o beneficiário/depositante, mesmo diante da apresentação da cópia do cheque e da autorização deste;
+- fornecimento, ao emitente de cheque, de informações sobre o beneficiário/depositante sem autorização deste;
+- devolução decorrente de divergência entre os valores expressos em algarismos e por extenso;
+- não aposição, pela instituição financeira remetente, do carimbo de devolução no cheque físico;
+- não disponibilização de informações que possam acarretar a devolução de determinado cheque.";
+2025;2º;Reclamação regulada;Irregularidades relacionadas à liquidação de documentos (exceto cheques);"Para as situações relacionadas à liquidação de TEC, TED, DOC e boletos de cobrança, tais como: 
+- descumprimento de prazo de compensação;
+- inobservância do valor limite de DOC;
+- não informação/disponibilização de DOC devolvido.";
+2025;2º;Reclamação regulada;Irregularidades relacionadas à liquidação de documentos (exceto cheques) - instituição de pagamento;"""Para as situações relacionadas à liquidação de TEC, TED, DOC e boletos de cobrança por instituição de pagamento, tais como: 
+- descumprimento de prazo de compensação;
+- inobservância do valor limite de DOC
+- não informação/disponibilização de DOC devolvido;""
+";
+2025;2º;Reclamação regulada;Irregularidades relativas a dados cadastrais no Open Banking por instituições financeiras;"Para as situações envolvendo infração às regras de Open Banking por instituições financeiras relativas a dados cadastrais, tais como:
+- Não compartilhamento de dados cadastrais
+- Compartilhamento de dados cadastrais sem consentimento do cliente
+- Falhas no processo de consentimento, autenticação e confirmação do cliente";
+2025;2º;Reclamação regulada;Irregularidades relativas a integridade, confiabilidade, segurança, sigilo ou legitimidade das operações e serviços disponibilizados em ATM;"Para as situações envolvendo integridade, confiabilidade, segurança ou o sigilo das transações realizadas, bem como a legitimidade das operações contratadas e dos serviços prestados em ATM (terminal de auto atendimento), tais como:
+- Saques e depósitos divergentes em ATM (inclusive na utilização de cartões de crédito e débito);
+- Saques não reconhecidos em ATM;
+- Golpe (adulteração de boleto no momento do pagamento em ATM);
+- Adulterações em transações via ATM;
+- Cooptação de dados em ATM.";
+2025;2º;Reclamação regulada;Irregularidades relativas a integridade, confiabilidade, segurança, sigilo ou legitimidade das operações e serviços disponibilizados em internet banking;"Para as situações envolvendo integridade, confiabilidade, segurança ou o sigilo das transações realizadas, bem como a legitimidade das operações contratadas e dos serviços prestados via internet banking ou aplicativo (app), tais como:
+- Transações não reconhecidas em Internet Banking;
+- Golpe (adulteração de boleto no momento do pagamento via Internet Banking);
+- Adulterações em transações via Internet Banking;
+- Cooptação de dados em Internet Banking;
+- Falhas operacionais diversas, como execução de pedidos informados ao cliente como não acatados, bugs em aplicativos etc.";
+2025;2º;Reclamação regulada;Irregularidades relativas a integridade, confiabilidade, segurança, sigilo ou legitimidade das operações e serviços prestados relacionados a conta de pagamento pós-paga - instituição de pagamento;"Para as situações envolvendo integridade, confiabilidade, segurança ou o sigilo das transações realizadas, bem como a legitimidade das operações contratadas e dos serviços prestados por instituição de pagamento relacionados a conta de pagamento pós-paga, tais como:
+- Cobrança em fatura de cartão de crédito que deveria ter sido estornada;
+- Cobrança indevida em fatura de cartão de crédito;
+- Compras não reconhecidas feitas com cartão de crédito clonado/roubado;
+- Cobranças em duplicidade, em cartão de crédito;
+- Não reconhecimento de pagamento de fatura de cartão de crédito;
+- Inconsistências em dados fornecidos ao cliente em fatura de cartão de crédito (ex.: soma dos lançamentos é diferente do total da fatura).
+";
+2025;2º;Reclamação regulada;Irregularidades relativas a integridade, confiabilidade, segurança, sigilo ou legitimidade das operações e serviços prestados relacionados a conta de pagamento pré-paga - instituição de pagamento;"Para as situações envolvendo integridade, confiabilidade, segurança ou o sigilo das transações realizadas, bem como a legitimidade das operações contratadas e dos serviços prestados por instituição de pagamento relacionados a conta de pagamento pré-paga, tais como:
+- Cobrança de transação que deveria ter sido estornada;
+- Cobrança indevida de transação;
+- Compras não reconhecidas feitas com instrumento de pagamento pré-pago;
+- Cobranças em duplicidade, em conta de pagamento pré-pago;
+- Débitos não autorizados, ou não cumprimento das regras aplicáveis;
+- Não acatamento de solicitação de cancelamento de débito autorizado, ou não cumprimento das regras aplicáveis.
+
+";
+2025;2º;Reclamação regulada;Irregularidades relativas a integridade, confiabilidade, segurança, sigilo ou legitimidade das operações e serviços relacionados a cartões de crédito;"Para as situações envolvendo integridade, confiabilidade, segurança ou o sigilo das transações realizadas, bem como a legitimidade das operações contratadas e dos serviços prestados relacionados a cartões de crédito, tais como:
+- Cobrança em fatura de cartão de crédito que deveria ter sido estornada;
+- Cobrança indevida em fatura de cartão de crédito;
+- Compras não reconhecidas feitas com cartão de crédito clonado/roubado;
+- Cobranças em duplicidade, em cartão de crédito;
+- Não reconhecimento de pagamento de fatura de cartão de crédito;
+- Inconsistências em dados fornecidos ao cliente em fatura de cartão de crédito (ex.: soma dos lançamentos é diferente do total da fatura).";
+2025;2º;Reclamação regulada;Irregularidades relativas a integridade, confiabilidade, segurança, sigilo ou legitimidade das operações e serviços relacionados a cartões de débito;"Para as situações envolvendo integridade, confiabilidade, segurança ou o sigilo das transações realizadas, bem como a legitimidade das operações contratadas e dos serviços prestados relacionados a cartões de débito, tais como:
+- Compras não reconhecidas feitas com cartão de débito clonado/roubado;
+- Cobranças em duplicidade, em cartão de débito.";
+2025;2º;Reclamação regulada;Irregularidades relativas a integridade, confiabilidade, segurança, sigilo ou legitimidade das operações e serviços, exceto as relacionadas a cartão de crédito, cartão de débito, internet banking, ATM, credenciadora e operação de crédito;"Para situações envolvendo integridade, confiabilidade, segurança ou o sigilo das transações realizadas, bem como a legitimidade das operações contratadas e dos serviços prestados relacionadas a outros serviços que não cartão de crédito, cartão de débito, internet banking, ATM, credenciadora e operação de crédito, tais como:
+- Não realização de débito automático autorizado pelo cliente;
+- Divergências em saques e depósitos em caixa convencional;
+- Problemas em transações ocasionados por falha humana;
+- Resgates de investimentos, alteração de modalidades de investimentos, etc., sem autorização do cliente.
+";
+2025;2º;Reclamação regulada;Irregularidades relativas a integridade, confiabilidade, segurança, sigilo ou legitimidade dos serviços relacionados a operações de crédito consignado;"Para as situações envolvendo a integridade, confiabilidade, segurança, sigilo ou legitimidade dos serviços relacionados a operações de crédito consignado, tais como:
+- atraso na liberação do crédito; 
+- cobrança de parcela já quitada; 
+- cobrança em duplicidade; 
+- demora para devolver parcela cobrada indevidamente; 
+- falhas operacionais relacionadas a margem consignável; 
+- divergência no valor ou na quantidade de parcelas.";
+2025;2º;Reclamação regulada;Irregularidades relativas a integridade, confiabilidade, segurança, sigilo ou legitimidade dos serviços relacionados a operações de crédito, exceto consignado;"Para as situações envolvendo a integridade, confiabilidade, segurança, sigilo ou legitimidade dos serviços relacionados a operações de crédito, exceto consignado, tais como:
+- atraso na liberação do crédito; 
+- cobrança de parcela já quitada; 
+- cobrança em duplicidade; 
+- demora para devolver parcela cobrada indevidamente; 
+- divergência no valor ou na quantidade de parcelas.
+";
+2025;2º;Reclamação regulada;Irregularidades relativas a operações de crédito de saldo devedor de fatura de cartão de crédito (rotativo e parcelamento) e respectiva cobrança de encargos;"Para as situações envolvendo infração às regras de crédito rotativo de cartão de crédito previstas na Resolução 4.549, de 2017, e inclusões pela Res. CMN 5.112/2023, tais como:
+- extensão indevida de crédito rotativo;
+- falta de informação sobre as novas regras de crédito rotativo;
+- financiamento de saldo remanescente de crédito rotativo em condições não vantajosas;
+- retorno ao crédito rotativo após parcelamento de rotativo anterior;
+- Limite de encargos em operações de renegociação de saldo devedor de cartão de crédito de que trata o art. 28 da Lei 14.690/2023.
+";
+2025;2º;Reclamação regulada;Irregularidades relativas a operações de crédito de saldo devedor de fatura de cartão de crédito (rotativo e parcelamento) e respectiva cobrança de encargos - instituições de pagamento;"Para as situações envolvendo infração às regras de crédito rotativo de cartão de crédito previstas na Resolução 4.549, de 2017, e inclusões pela Res. CMN 5.112/2023, tais como:
+- extensão indevida de crédito rotativo;
+- falta de informação sobre as novas regras de crédito rotativo;
+- financiamento de saldo remanescente de crédito rotativo em condições não vantajosas;
+- retorno ao crédito rotativo após parcelamento de rotativo anterior;
+- Limite de encargos em operações de renegociação de saldo devedor de cartão de crédito de que trata o art. 28 da Lei 14.690/2023.
+";
+2025;2º;Reclamação não regulada;Irregularidades relativas a telemarketing, SMS ou Whatsapp com oferta de produtos e serviços;"Ligações telefônicas, mensagens via e-mail, SMS ou Whatsapp oferecendo produtos e serviços.";
+2025;2º;Reclamação não regulada;Juros e preços;Para as situações envolvendo o valor das taxas de juros cobradas por instituição financeira ou elevação/abusividade do preço dos serviços.;
+2025;2º;Reclamação não regulada;Liberação de recursos em financiamento imobiliário;Para as situações envolvendo demora ou dificuldade nos procedimentos para liberação de financiamentos imobiliários.;
+2025;2º;Reclamação regulada;Limites de transação;Para os casos de descumprimento de regras relacionadas a limites de transação em contas de depósito e de pagamento pré e pós pagas.;
+2025;2º;Reclamação regulada;Limites de transação - instituição de pagamento;Para os casos de descumprimento de regras relacionadas a limites de transação em contas de pagamento pré e pós pagas.;
+2025;2º;Reclamação regulada;Não acatamento de solicitação de cancelamento de débitos automáticos em conta de pagamento pré-paga ou não cumprimento das regras aplicáveis - instituição de pagamento;"Para as situações envolvendo o não acatamento, por parte da instituição de pagamento, de solicitação apresentada pelo cliente para cancelamento de débitos automáticos em conta de pagamento pré-paga ou não cumprimento das regras aplicáveis.";
+2025;2º;Reclamação regulada;Não acatamento de solicitação de cancelamento de débitos automáticos em conta de pagamento pré-paga, ou não cumprimento das regras aplicáveis;"Para as situações envolvendo o não acatamento, por parte da instituição financeira, de solicitação apresentada pelo cliente para cancelamento de débitos automáticos em conta de pagamento pré-paga, ou não cumprimento das regras aplicáveis.";
+2025;2º;Reclamação regulada;Não acatamento de solicitação de cancelamento de débitos automáticos em conta ou não cumprimento das regras aplicáveis;"Para as situações envolvendo o não acatamento, por parte da instituição financeira, de solicitação apresentada pelo cliente para cancelamento de débitos automáticos em conta ou não cumprimento das regras aplicáveis.
+";
+2025;2º;Reclamação regulada;Não acatamento de solicitação de cancelamento de débitos automáticos em conta-salário ou não cumprimento das regras aplicáveis;"Para as situações envolvendo o não acatamento, por parte da instituição financeira, de solicitação apresentada pelo cliente para cancelamento de débitos automáticos em conta-salário ou não cumprimento das regras aplicáveis.";
+2025;2º;Reclamação regulada;Oferta ou prestação de informação a respeito de produtos e serviços de forma inadequada para conta de pagamento pós-paga - instituição de pagamento;Para os casos em que houver indícios de que a instituição de pagamento ofertou produtos e serviços inadequados ou prestou informações a respeito dos mesmos de forma insuficiente à tomada de decisão por parte de clientes e usuários de contas de pagamento pós-pagas.;
+2025;2º;Reclamação regulada;Oferta ou prestação de informação a respeito de produtos e serviços de forma inadequada para conta de pagamento pré-paga - instituição de pagamento;Para os casos em que houver indícios de que a instituição de pagamento ofertou produtos e serviços inadequados ou prestou informações a respeito dos mesmos de forma insuficiente à tomada de decisão por parte de clientes e usuários de contas de pagamento pré-pagas.;
+2025;2º;Reclamação regulada;Oferta ou prestação de informação sobre a conta ou serviços acessórios de forma inadequada ;Para os casos em que houver indícios de que a instituição ofertou conta ou serviços acessórios inadequados ou prestou informações a respeito do mesmo de forma insuficiente à tomada de decisão por parte de clientes e usuários.;
+2025;2º;Reclamação regulada;Oferta ou prestação de informação sobre crédito consignado de forma inadequada;Para os casos em que houver indícios de que a instituição ofertou crédito consignado inadequado ou prestou informações a respeito do mesmo de forma insuficiente à tomada de decisão por parte de clientes e usuários.;
+2025;2º;Reclamação regulada;Oferta ou prestação de informação sobre o cartão de crédito de forma inadequada ;Para os casos em que houver indícios de que a instituição ofertou cartão de crédito inadequado ou prestou informações a respeito do mesmo de forma insuficiente à tomada de decisão por parte de clientes e usuários.;
+2025;2º;Reclamação regulada;Oferta ou prestação de informação sobre operação de crédito de forma inadequada, exceto crédito consignado;"Para os casos em que houver indícios de que a instituição ofertou crédito, exceto consignado, inadequado ou prestou informações a respeito do mesmo de forma insuficiente à tomada de decisão por parte de clientes e usuários.";
+2025;2º;Reclamação regulada;Oferta ou prestação de informação sobre produtos e serviços de forma inadequada, exceto as relacionadas a cartão de crédito, conta e serviços acessórios, credenciadora de cartão e operação de crédito;"Para os casos em que houver indícios de que a instituição ofertou produtos e serviços, exceto cartão de crédito, conta, serviços acessórios à conta, credenciadora de cartão e operação de crédito, inadequados ou prestou informações a respeito deles de forma insuficiente à tomada de decisão por parte de clientes e usuários.";
+2025;2º;Reclamação regulada;Outras irregularidades ;Para os casos envolvendo outras irregularidades que não possuem um item próprio de classificação no presente ranking.;
+2025;2º;Reclamação regulada;Outras irregularidades - instituição de pagamento;"""Para os casos envolvendo outras irregularidades cometidas por instituição de pagamento que não possuem um item próprio de classificação no presente ranking.
+""
+";
+2025;2º;Reclamação regulada;Outras irregularidades relacionadas a cartões de crédito;"Para os casos envolvendo irregularidades relacionadas a cartões de crédito não enquadrados nos outros itens, tais como:
+- recusa à oferta de cartão de crédito básico nacional e/ou internacional por instituição que emite cartão de crédito;
+- não divulgação em tabela dos benefícios/recompensas relacionados a cartões de crédito;
+- ausência de informações obrigatórias mínimas nos demonstrativos e/ou faturas mensais.";
+2025;2º;Reclamação regulada;Outras irregularidades relacionadas a cartões de crédito - instituição de pagamento;"""Para os casos envolvendo irregularidades cometidas por instituição de pagamento relacionadas a cartões de crédito não enquadrados nos outros itens, tais como:
+- recusa à oferta de cartão de crédito básico nacional e/ou internacional por instituição que emite cartão de crédito;
+- não divulgação em tabela dos benefícios/recompensas relacionados a cartões de crédito;
+- ausência de informações obrigatórias mínimas nos demonstrativos e/ou faturas mensais.""
+";
+2025;2º;Reclamação regulada;Outras irregularidades relacionadas a cheques;Para os casos envolvendo irregularidades relacionadas a cheques não enquadrados nos outros itens.;
+2025;2º;Reclamação regulada;Outras irregularidades relacionadas a tarifas;"Para os casos envolvendo irregularidades relacionadas a tarifas não enquadrados nos outros itens, tais como:
+- pela emissão ou recebimento de boleto;
+- débito, em conta de depósitos à vista ou de poupança, de tarifas sem identificação no extrato de forma clara ou sem utilização, no caso dos serviços prioritários, da padronização;
+- não disponibilização de extrato anual;
+- não divulgação.";
+2025;2º;Reclamação regulada;Outras irregularidades relacionadas à portabilidade de operações de crédito de pessoa natural;"Para os casos envolvendo outras irregularidades relacionadas à portabilidade de operação de crédito contratada por pessoa natural, tais como:
+- aumento do valor da prestação, por parte de instituição financeira proponente, sem a manifestação formal de concordância por parte do devedor;
+- repasse, ao devedor, dos custos relacionados à troca de informações e à transferência de recursos entre as instituições proponente e credora original;
+- ausência de divulgação de informações necessárias para o exercício do direito à portabilidade;
+- situações envolvendo operações de arrendamento mercantil.";
+2025;2º;Reclamação não regulada;Outros assuntos não regulados relacionados a cartão de crédito;"Para situações diversas, não reguladas, envolvendo cartão de crédito emitido por instituições financeiras, tais como:
+- não fornecimento do contrato de adesão ao cartão;
+- descumprimento de cláusulas contratuais;
+- demora no envio de 2ª via de cartão; 
+- demora no envio de cartão com nova validade.";
+2025;2º;Reclamação não regulada;Outros assuntos não regulados relacionados a cartão de crédito - instituição de pagamento;"Para situações diversas, não reguladas, envolvendo cartão de crédito emitido por instituições de pagamento, tais como:
+- não fornecimento do contrato de adesão ao cartão;
+- descumprimento de cláusulas contratuais;
+- demora no envio de 2a via de cartão; 
+- demora no envio de cartão com nova validade.";
+2025;2º;Reclamação não regulada;OUTROS;Reclamações diversas envolvendo pessoas físicas e jurídicas não pertencentes ao sistema financeiro;
+2025;2º;Reclamação regulada;Pix  - chaves;"Para os casos envolvendo problemas no registro, portabilidade, reivindicação e exclusão de chaves";
+2025;2º;Reclamação regulada;Pix - Bloqueio ou devolução de valores;"Para os casos em que o PSP recebedor bloqueia ou devolve os recursos recebidos por Pix, por suspeita de fraude ou problemas operacionais em um dos PSPs.";
+2025;2º;Reclamação regulada;Pix - Bloqueio ou devolução irregular de valores - instituição de pagamento;"Para os casos em que o PSP recebedor bloqueia ou devolve os recursos recebidos por Pix, por suspeita de fraude ou problemas operacionais em um dos PSPs.";
+2025;2º;Reclamação não regulada;Pix - diversos;"Para situações não reguladas relacionadas a assuntos diversos de Pix, não classificadas em rubricas ";
+2025;2º;Reclamação regulada;Pix - Dificuldade para solicitar ou realizar devolução;Para os casos de impossibilidade de devolver ou ter devolvidos valores transacionados via Pix.;
+2025;2º;Reclamação regulada;Pix - Dificuldade para solicitar ou realizar devolução - instituição de pagamento;Para os casos de impossibilidade de devolver ou ter devolvidos valores transacionados via Pix.;
+2025;2º;Reclamação regulada;Pix - experiência do usuário;Para situações de inadequação ou insuficiência na experiência do usuário no site ou no aplicativo relacionada ao Pix ;
+2025;2º;Reclamação regulada;Pix - experiência do usuário - instituição de pagamento;Para situações de inadequação ou insuficiência na experiência do usuário no site ou no aplicativo relacionada ao Pix ;
+2025;2º;Reclamação regulada;Pix - iniciação;Para os casos de demora ou falha no envio do Pix pela instituição do pagador;
+2025;2º;Reclamação regulada;Pix - liquidação;Para as situações em que há demora ou falha no processamento do crédito na conta do beneficiário do Pix devidamente iniciado;
+2025;2º;Reclamação regulada;Pix - liquidação - instituição de pagamento;Para as situações em que há demora ou falha no processamento do crédito na conta do beneficiário do Pix devidamente iniciado;
+2025;2º;Reclamação regulada;Pix - outros;"Para situações reguladas relacionadas a assuntos diversos de Pix, não classificadas em rubricas específicas.";
+2025;2º;Reclamação regulada;Pix - outros - instituição de pagamento;"Para situações reguladas relacionadas a assuntos diversos de Pix, não classificadas em rubricas específicas.";
+2025;2º;Reclamação regulada;Pix - Saque e Pix - Troco - instituição de pagamento;"Para os casos que envolvem Pix Saque e Pix Troco, exceto tarifa.";
+2025;2º;Reclamação regulada;Pix - tarifa;Para os casos de cobrança indevida de tarifa relacionada ao Pix;
+2025;2º;Reclamação regulada;Pix - tarifa - instituição de pagamento;Para os casos de cobrança indevida de tarifa relacionada ao Pix;
+2025;2º;Reclamação regulada;PIX - Chaves - instituição de pagamento;"Para os casos envolvendo problemas no registro, portabilidade, reivindicação e exclusão de chaves";
+2025;2º;Reclamação não regulada;PIX - Diversos - instituição de pagamento;"Para situações não reguladas relacionadas a assuntos diversos de Pix, não classificadas em rubricas específicas.";
+2025;2º;Reclamação regulada;PIX - Iniciação - instituição de pagamento;Para os casos de demora ou falha no envio do Pix pela instituição do pagador;
+2025;2º;Reclamação regulada;Prestação de serviço de forma irregular em conta-salário;"Para as situações relacionadas à prestação de serviços, ou movimentação de recursos, de forma irregular em conta-salário, tais como:
+- transferência de recursos não realizada ou realizada de forma intempestiva; 
+- transferência de recursos realizada sem solicitação do cliente; 
+- realização de débitos não autorizados pelo cliente, contratações anteriores a 1.3.2021.";
+2025;2º;Reclamação não regulada;Problemas enfrentados com o atendimento preferencial;"Para as situações relacionadas à não observância de legislação específica sobre atendimento a pessoas com deficiência ou com mobilidade reduzida, temporária ou definitiva, idosos, gestantes, lactantes e pessoas acompanhadas por criança de colo.
+
+";
+2025;2º;Reclamação não regulada;Reclamações relacionadas a assuntos diversos;"Para situações relacionadas a assuntos diversos, não classificadas em rubricas específicas, tais como:
+- ligações telefônicas oferecendo produtos e serviços, inclusive cartão de crédito;
+- limites para saques/transferências em terminais eletrônicos, Internet Banking, etc;
+- reclamações envolvendo os produtos ""seguro"" ou ""plano de previdência privada"", manifestada contra a instituição fiscalizada e não contra a seguradora ou contra empresa de previdência privada, tais como: demora no pagamento do seguro, demora no resgate da aplicação da previdência, entre outros.";
+2025;2º;Reclamação não regulada;Reclamações relacionadas a assuntos diversos envolvendo - instituição de pagamento;"Para situações relacionadas a assuntos diversos envolvendo instituições de pagamento, não classificadas em rubricas específicas.";
+2025;2º;Reclamação regulada;Recusa de cancelamento de pacote de serviços;Para os casos em que a instituição financeira se recusa a cancelar o pacote de serviços a pedido do cliente.;
+2025;2º;Reclamação não regulada;Recusa de produtos ou serviços;"Para as situações relacionadas à recusa de produtos e serviços, por parte de instituição financeira, tais como:
+- recepção de depósito/pagamento em moeda metálica;
+- abertura de conta;
+- concessão de crédito; 
+- contratação de câmbio;
+- substituição de bens dados em garantia;  
+- aditamento contratual (alteração de cláusulas propostas pelo cliente);
+- transferência de titularidade do devedor de financiamento;
+- transferência de agência;
+- fornecimento de cartão crédito.";
+2025;2º;Reclamação não regulada;Recusa de produtos ou serviços - instituição de pagamento;"Para as situações relacionadas à recusa de produtos e serviços, por parte de instituição de pagamento, tais como:
+- abertura de conta de pagamento;
+- aditamento contratual (alteração de cláusulas propostas pelo cliente);
+- fornecimento de cartão crédito.";
+2025;2º;Reclamação regulada;Recusa ou dificuldade de acesso aos canais de atendimento convencionais;Para os casos envolvendo recusa ou dificuldade de acesso aos guichês de caixa.;
+2025;2º;Reclamação não regulada;Renegociação de dívida (exceto cartão de crédito);"Para as situações envolvendo renegociação de dívidas, exceto as envolvendo cartão de crédito.";
+2025;2º;Reclamação não regulada;Renegociação de dívida em instituição de pagamento;Para as situações envolvendo renegociação de dívidas em instituição de pagamento.;
+2025;2º;Reclamação não regulada;Renegociação de dívidas/encargos relacionadas a cartão de crédito;Para situações relacionadas à renegociação de dívida ou encargos de cartão de crédito.;
+2025;2º;Reclamação não regulada;Renegociação de dívidas/encargos relacionadas à cartão de crédito - instituição de pagamento;Para situações relacionadas à renegociação de dívida ou encargos de cartão de crédito.;
+2025;2º;Reclamação regulada;Restrição à realização de portabilidade de operações de crédito (exceto crédito consignado e financiamento imobiliário) relativas a pessoas naturais;"Para os casos envolvendo restrições, por parte da instituição financeira credora original, para efetuar portabilidade de operação de crédito (exceto crédito consignado e financiamento imobiliário) de pessoa natural, tais como: 
+- não fornecimento do saldo devedor ou de outras informações necessárias para concluir a portabilidade;
+- não comunicação de desistência dentro do prazo previsto;
+- alegação indevida de problemas de inconsistência na TED.
+- não comprovação da desistência do devedor.";
+2025;2º;Reclamação regulada;Restrição à realização de portabilidade de operações de crédito consignado relativas a pessoas naturais;"Para os casos envolvendo restrições, por parte da instituição financeira credora original, para efetuar portabilidade de operação de crédito consignado de pessoa natural, tais como: 
+- não fornecimento do saldo devedor ou de outras informações necessárias para concluir a portabilidade;
+- não comunicação de desistência dentro do prazo previsto;
+- alegação indevida de problemas de inconsistência na TED;
+- não comprovação da desistência do devedor.";
+2025;2º;Reclamação não regulada;Restrições cadastrais;"Para as situações envolvendo restrições cadastrais no Serasa, SPC e outros cadastros não constantes da base de dados do Banco Central, inclusive as oriundas de operações com cartão de crédito, tais como:
+- inclusão indevida em cadastros restritivos;
+- demora na retirada de restrições cadastrais, após a quitação da dívida.";
+2025;2º;Reclamação não regulada;Restrições cadastrais por parte - instituição de pagamento;"Para as situações envolvendo restrições cadastrais por iniciativa de instituição de pagamento no Serasa, SPC e outros cadastros não constantes da base de dados do Banco Central, inclusive as oriundas de operações com cartão de crédito, tais como:
+- inclusão indevida em cadastros restritivos;
+- demora na retirada de restrições cadastrais, após a quitação da dívida.";
+2025;2º;Reclamação não regulada;Tempo de espera em fila;Para as situações envolvendo o tempo de espera em filas na instituição financeira.;
+2025;2º;Reclamação não regulada;Terminais eletrônicos, internet e aplicativos;"Para problemas relacionados: 
+I - ao uso de terminais eletrônicos de autoatendimento, tais como:
+a) sem numerário;
+b) com defeito;
+c) sem envelope;
+d) sem papel de comprovante.
+
+II - à internet banking, tais como:
+a) site indisponível;
+b) lentidão para processar operações;
+c) à dificuldades para obtenção de senha para acesso ao site de internet banking, inclusive em caso de bloqueio da senha anterior pela instituição financeira;
+d) dificuldades na utilização de serviços via aplicativos mobile.";
+2025;2º;Reclamação não regulada;Terminais eletrônicos, internet e aplicativos - instituição de pagamento;"Para problemas relacionados:
+
+I - ao uso de terminais eletrônicos POS, tais como:
+a) travamento da maquininha;
+b) com defeito;
+
+II - à internet banking ou mobile, tais como:
+a) site indisponível;
+b) lentidão para processar operações;
+c) à dificuldades para obtenção de senha para acesso ao site de internet banking, inclusive em caso de bloqueio da senha anterior pela instituição de pagamento;
+d) dificuldades na utilização de serviços via aplicativos mobile.";
+2025;2º;Reclamação regulada;Transações não reconhecidas pelo titular da conta, realizadas por terceiros (invasão de conta) - instituição de pagamento;"Para as situações envolvendo integridade, confiabilidade, segurança ou o sigilo das transações realizadas em conta, independentemente do meio utilizado (internet banking, aplicativo, ATM, telefone, etc.) em instituições de pagamento.";
+2025;2º;Reclamação regulada;Transações não reconhecidas pelo titular da conta, realizadas por terceiros (invasão de conta) em instituições financeiras;"Para as situações envolvendo integridade, confiabilidade, segurança ou o sigilo das transações realizadas em conta, independentemente do meio utilizado (internet banking, aplicativo, ATM, telefone, etc.) em instituições financeiras.";
+2025;2º;Reclamação regulada;Utilização incorreta da taxa de desconto no cálculo do valor presente relacionadas às demais operações de crédito, exceto as de crédito consignado e de financiamento imobiliário;"Para os casos em que foi utilizada incorretamente pela instituição financeira a taxa de desconto no cálculo do valor presente das demais operações de crédito, exceto as de crédito consignado e de financiamento imobiliário.";
+2025;2º;Reclamação regulada;Utilização incorreta da taxa de desconto no cálculo do valor presente relacionadas às operações de crédito consignado;Para os casos em que foi utilizada incorretamente pela instituição financeira a taxa de desconto no cálculo do valor presente das operações de crédito consignado.;
+2025;2º;Reclamação regulada;Utilização incorreta da taxa de desconto no cálculo do valor presente relacionadas às operações de financiamento imobiliário;Para os casos em que foi utilizada incorretamente pela instituição financeira a taxa de desconto no cálculo do valor presente das operações de financiamento imobiliário.;

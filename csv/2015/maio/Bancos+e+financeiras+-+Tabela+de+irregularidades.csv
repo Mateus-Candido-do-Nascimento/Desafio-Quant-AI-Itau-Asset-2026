@@ -1,0 +1,378 @@
+Ano;Mês;Tipo;Irregularidade;Aplicação;
+2015;5;Reclamação regulada;Abertura de conta de depósito com documentação falsa;"Para as situações em que são encontrados indícios de que a instituição não fez qualquer outra verificação adicional para certificar-se da legitimidade da documentação apresentada, ou não consultou a situação do(s) titular(es) da conta no CPF, para fins de abertura da conta.
+";
+2015;5;Reclamação regulada;Abertura de conta de depósito sem documentação necessária;"Para os casos envolvendo a abertura de conta sem documentação necessária e aplicável quando, por exemplo, houver indícios de que: 
+- por ocasião da abertura, não houve a qualificação completa do titular;
+- a instituição não dispõe de cópia de todos os documentos utilizados para a abertura de conta (ativa) ou as cópias disponíveis não estão legíveis;
+- a instituição alega não possuir cópia de documentos de abertura de conta encerrada há menos de 5 anos.";
+2015;5;Reclamação não regulada;Alteração contratual sem prévio aviso;Para os casos envolvendo alteração contratual por parte da instituição financeira sem prévio aviso.;
+2015;5;Reclamação regulada;Ausência de cláusula contratual prevendo a opção pela utilização de serviços e tarifas individualizados ou por pacote de serviços;"Para os casos envolvendo a ausência de cláusula destacada no contrato de abertura de conta prevendo a faculdade de o cliente optar, sem a necessidade de adesão ou contratação específica de pacote de serviço, pela utilização de serviços e pagamento de tarifas individualizados, além daqueles serviços gratuitos previstos na regulamentação vigente.";
+2015;5;Reclamação regulada;Ausência de contrato com beneficiário de boleto de pagamento;Para os casos envolvendo a ausência de contrato celebrado com o beneficiário detentor de conta creditada com recursos decorrentes de boletos de pagamento.;
+2015;5;Reclamação regulada;Ausência de informações obrigatórias em folhas de cheques;"Para os casos de ausência de uma ou mais informações obrigatórias em folhas de cheques, tais como: 
+- nome, CPF/CNPJ e documento de identidade do correntista; 
+- data de início de relacionamento; e 
+- data de confecção da folha de cheque.";
+2015;5;Reclamação regulada;Ausência de informações sobre as regras de funcionamento nos contratos de cartões de crédito;"Para os casos envolvendo ausência de previsão das regras de funcionamento nos contratos de prestação de serviços vinculados a cartão de crédito, inclusive aquelas relativas às situações em que a utilização do cartão origina operações de crédito, bem como as respectivas sistemáticas de incidência de encargos.";
+2015;5;Reclamação regulada;Ausência de título adequado envolvendo conta de pagamento pós paga de cartão de crédito consignado;"Para os casos envolvendo a inexistência de formalização de título adequado vinculada excluisvamente à conta de pagamento pós paga de cartão de crédito consignado.
+";
+2015;5;Reclamação regulada;Ausência de título adequado envolvendo conta de pagamento pós paga de demais cartões de crédito (exceto consignado);"Para os casos envolvendo a inexistência de formalização de título adequado vinculada  à conta de pagamento pós paga de cartão de crédito (exceto o de consignado).
+";
+2015;5;Reclamação não regulada;Bloqueio de cartão de crédito;"Para as situações relacionados a bloqueio de cartão de crédito, por parte da instituição financeira, por qualquer motivo, ou demora/dificuldades enfrentadas para desbloqueio de cartão de crédito.
+
+";
+2015;5;Reclamação não regulada;Bloqueio de conta;"Para as situações relacionadas a bloqueio de conta de depósito, por parte da instituição financeira, tais como:
+- bloqueio efetuado em conta (bloqueio judicial direto, via BacenJud e via papel);
+- bloqueio da conta para fim de encerramento;
+- impedimento de consulta ou movimentação de conta por meios alternativos (internet, cartão em caixas eletrônicos), para forçar pagamento ou a renegociação de dívida ou por motivo de segurança (acesso com senhas incorretas, suspeita de clonagem de cartão, etc). ";
+2015;5;Reclamação não regulada;Bloqueio de margem consignável sem liberação do empréstimo (exceto cartão de crédito consignável);"Para as situações de bloqueio de margem consignável, não tendo sido liberado o valor do empréstimo (exceto cartão de crédito consignável).
+";
+2015;5;Reclamação não regulada;Bloqueio de margem consignável sem utilização do crédito pelo cliente - Cartão de crédito consignável;"Para as situações de bloqueio de margem consignável, relacionado a cartão de crédito consignável, sem que o crédito tenha sido utilizado pelo cliente.
+";
+2015;5;Reclamação regulada;Cancelamento de contrato a pedido do cliente não atendido;Para os casos em que a instituição financeira se recusa ou cria obstáculos para efetuar o cancelamento do contrato solicitado pelo cliente. ;
+2015;5;Reclamação não regulada;Cancelamento de contrato por iniciativa da instituição financeira;"Para as situações de cancelamento de contratos por parte da instituição financeira sem aviso ao cliente, exceto nos casos em que haja previsão regulamentar.";
+2015;5;Reclamação não regulada;Cartão pré-pago;"Para situações envolvendo cartão pré-pago em moeda nacional ou estrangeira, tais como:
+- não aceitação do cartão pré-pago em estabelecimentos comerciais, inclusive quando da utilização de cartões em moeda estrangeira no exterior; 
+- fornecimento de cartão com problemas;
+- demora no envio de 2ª via de cartão;
+- consulta de saldo e extrato.";
+2015;5;Reclamação não regulada;Cartões de débito;"Para situações relacionadas a cartões de débito, tais como:
+- dificuldades de obtenção do cartão;
+- fornecimento de cartão com problemas;
+- demora no envio de 2ª via de cartão; 
+- demora no envio de cartão com nova validade.
+";
+2015;5;Reclamação regulada;Cobrança irregular de tarifa de cartão de crédito básico;Para os casos de cobrança de tarifa envolvendo cartão de crédito básico.;
+2015;5;Reclamação regulada;Cobrança irregular de tarifa de cartão de crédito diferenciado;Para os casos de cobrança de tarifa relacionada a cartão de crédito diferenciado.;
+2015;5;Reclamação regulada;Cobrança irregular de tarifa de serviço diferenciado (exceto cartão de crédito diferenciado);"Para os casos de cobrança de tarifa de serviço diferenciado (exceto cartão de crédito diferenciado), inclusive quando houver cobrança do sacado, pessoa natural, por parte da instituição financeira recebedora, em razão do recebimento de boleto de cobrança de outra instituição";
+2015;5;Reclamação regulada;Cobrança irregular de tarifa de serviço prioritário (exceto cartão de crédito básico);Para os casos de cobrança irregular de tarifa envolvendo serviço prioritário (exceto cartão de crédito básico).;
+2015;5;Reclamação regulada;Cobrança irregular de tarifa em conta de depósito à vista ou de poupança superior ao saldo disponível;"Para os casos em que o valor do lançamento do débito referente à cobrança de tarifa em conta de depósitos à vista ou em conta de depósitos de poupança foi superior ao saldo disponível, que engloba, inclusive, eventual limite de crédito acordado entre as partes.";
+2015;5;Reclamação regulada;Cobrança irregular de tarifa em conta-salário;"Para os casos envolvendo cobrança de tarifa em conta-salário, tais como as relativas a:
+- transferência dos créditos para outras instituições, quando realizadas pelos beneficiários pelo valor total creditado, admitida a dedução de eventuais descontos com eles contratados, relativos a parcelas de operações de empréstimo, de financiamento ou de arrendamento mercantil;
+- ressarcimento pelos custos relativos à prestação do serviço à entidade contratante, inclusive pela efetivação do crédito respectivo; 
+- fornecimento de cartão magnético; 
+- realização de até cinco saques, por evento de crédito;
+- acesso, por meio de terminais de autoatendimento ou diretamente no guichê de caixa, a pelo menos duas consultas mensais ao saldo; 
+- fornecimento, por meio de terminais de autoatendimento ou diretamente no guichê de caixa, a  pelo menos dois extratos contendo toda a movimentação da conta nos últimos trinta dias;
+-  manutenção da conta, inclusive no caso de não haver movimentação.";
+2015;5;Reclamação regulada;Cobrança irregular de tarifa em financiamento imobiliário;Para os casos de cobrança irregular de tarifas relacionadas às operações de financiamento imobiliário enquadradas dentro ou fora do Sistema Financeiro da Habitação.;
+2015;5;Reclamação regulada;Cobrança irregular de tarifa para recebimento de boleto de pessoa jurídica;"Para os casos de cobrança de tarifa do sacado, pessoa jurídica, por parte da instituição financeira recebedora, em razão do recebimento de boleto de cobrança de outra instituição.";
+2015;5;Reclamação regulada;Cobrança irregular de tarifa pela emissão de boleto, fatura de cobrança, carnês e assemelhados;"Para os casos em que há cobrança de tarifa pela emissão de boletos, faturas de cobrança, carnês e assemelhados.";
+2015;5;Reclamação regulada;Cobrança irregular de tarifa pela prestação de serviços especiais a pessoa física;"Para os casos de cobrança de tarifa pela prestação de serviços especiais a pessoas naturais, cuja legislação e regulamentação específicas definem as tarifas e as condições em que são aplicáveis, a exemplo dos serviços referentes ao (às): 
+- crédito rural;
+- Sistema Financeiro de Habitação - SFH;
+- Fundo de Garantia do Tempo de Serviço - FGTS;
+- Fundo PIS/PASEP;
+- penhor civil previsto no Decreto nº 6.473, de 5.6.2008;
+- contas especiais de que trata a Resolução nº 3.211, de 30.6.2004; 
+- contas de registro e controle disciplinadas pela Resolução nº 3.402, de 6.9.2006; e 
+- operações de microcrédito de que trata a Resolução nº 3.422, de 30.11.2006.";
+2015;5;Reclamação regulada;Cobrança irregular de tarifa pela prestação de serviços essenciais à pessoa natural;"Para os casos envolvendo cobrança de tarifa pela prestação de serviços essenciais a pessoas naturais, assim considerados aqueles relativos a:
+
+I- Conta de depósito à vista: 
+- fornecimento de cartão com função débito; 
+- fornecimento de segunda via do cartão de débito, exceto nos casos decorrentes de perda, roubo, furto, danificação e outros motivos não imputáveis à instituição emitente; 
+- realização de até quatro saques, por mês, em guichê de caixa, inclusive por meio de cheque ou de cheque avulso, ou em terminal de autoatendimento; 
+- realização de até duas transferências de recursos entre contas na própria instituição, por mês, em guichê de caixa, em terminal de autoatendimento e/ou pela internet; 
+- fornecimento de até dois extratos, por mês, contendo a movimentação dos últimos 30 dias por meio de guichê de caixa e/ou terminal de autoatendimento; 
+- realização de consultas mediante utilização da internet; 
+- fornecimento, até 28 de fevereiro de cada ano, do extrato consolidado, discriminando, mês a mês, os valores cobrados no ano anterior relativos a tarifas, entre outros; 
+- compensação de cheques; 
+- fornecimento de até dez folhas de cheques por mês, desde que o cliente reúna os requisitos necessários à utilização de cheques, conforme a regulamentação em vigor e condições pactuadas; e 
+- prestação de qualquer serviço por meios eletrônicos, no caso de contas cujos contratos prevejam utilizar exclusivamente meios eletrônicos. 
+II- Conta de depósitos de poupança:
+- fornecimento de cartão com função movimentação; 
+- fornecimento de segunda via do cartão, exceto nos casos de pedidos de reposição formulados pelo correntista, decorrentes de perda, roubo, furto, danificação e outros motivos não imputáveis à instituição emitente; 
+- realização de até dois saques, por mês, em guichê de caixa ou em terminal de autoatendimento; 
+- realização de até duas transferências, por mês, para conta de depósitos de mesma titularidade; 
+- fornecimento de até dois extratos, por mês, contendo a movimentação dos últimos trinta dias; 
+- realização de consultas mediante utilização da internet; 
+- fornecimento, até 28 de fevereiro de cada ano, do extrato consolidado, discriminando, mês a mês, os valores cobrados no ano anterior relativos a tarifas, entre outros; e 
+- prestação de qualquer serviço por meios eletrônicos, no caso de contas cujos contratos prevejam utilizar exclusivamente meios eletrônicos. ";
+2015;5;Reclamação regulada;Cobrança irregular de tarifa por liquidação antecipada;"Para os casos envolvendo cobrança de tarifa por liquidação antecipada em contratos celebrados com pessoas naturais, microempresas e empresas de pequeno porte a partir de 10.12.2007.";
+2015;5;Reclamação regulada;Cobrança irregular de tarifa por serviços não contratados;Para os casos envolvendo a cobrança de tarifa pela prestação de serviços não contratados ou autorizados pelo cliente ou usuário.;
+2015;5;Reclamação não regulada;Cobranças diversas;"Para situações diversas relacionados a cobrança, tais como:
+- cobrança de dívida em atraso, incluindo juros de mora, multa, comissão de permanência, despesas com escritório de cobrança, sem especificar o valor correspondente a cada item cobrado;
+- cobrança de ressarcimento de serviços prestados por terceiros.";
+2015;5;Reclamação não regulada;Cobranças diversas em operação de crédito consignado;"Para as situações envolvendo cobrança, por parte da instituição financeira, de parcela, já quitada, incluída no saldo devedor, em operações de crédito consignado.";
+2015;5;Reclamação regulada;Concessão de crédito (exceto consignado) sem a formalização do título adequado;"Para os casos envolvendo a concessão de crédito em todas as demais modalidades por parte da instituição financeira (exceto as de consignado), sem existir, contudo, a formalização do título constitutivo da dívida. Nesta rubrica não estão incluídas as situações relacionadas à conta de pagamento pós paga de cartões de crédito (exceto os de consignado) sem a formalização do título adequado.
+";
+2015;5;Reclamação regulada;Concessão de crédito consignado mediante a formalização de título adequado com base em documentação falsa;"Para os casos envolvendo a concessão de crédito exclusivamente na modalidade consignado, por parte da instituição financeira, mediante a formalização  do título constitutivo da dívida com base em documentação falsa. Nesta rubrica não estão incluídas as situações relacionadas à conta de pagamento pós paga de cartão de crédito consignado, cujo título foi formalizado a partir de documentação falsa.
+";
+2015;5;Reclamação regulada;Concessão de crédito consignado sem a formalização do título adequado;"Para os casos envolvendo a concessão de crédito exclusivamente na modalidade consignado, por parte da instituição financeira, sem existir, contudo, a formalização do título constitutivo da dívida. Nesta rubrica não estão incluídas as situações relacionadas à conta de pagamento pós paga de cartão de crédito consignado sem a formalização do título adequado.
+";
+2015;5;Reclamação regulada;Concessão de demais créditos (exceto consignado) mediante a formalização de título adequado com base em documentação falsa;"Para os casos envolvendo a concessão de crédito em todas as demais modalidades por parte da instituição financeira (exceto as de consignado) mediante a formalização  do título constitutivo da dívida com base em documentação falsa. Nesta rubrica não estão incluídas as situações relacionadas à conta de pagamento pós paga de cartões de crédito (exceto os de consignado), cujo título foi formalizado a partir de documentação falsa.
+";
+2015;5;Reclamação regulada;Contratação de pacote de serviços sem contrato específico;Para os casos envolvendo a contratação de pacote de serviços sem contrato específico.;
+2015;5;Reclamação não regulada;Descumprimento contratual;"Para as situações envolvendo descumprimento, por parte da instituição financeira, de cláusulas contratuais, exceto as que envolvam cartões de crédito.";
+2015;5;Reclamação não regulada;Descumprimento de ordem judicial;"Para as situações envolvendo descumprimento, por parte da instituição financeira, de ordem judicial, tais como:
+- bloqueio ou desbloqueio de conta;
+- fornecimento de extratos e outros documentos;
+- exclusão de restrições cadastrais. ";
+2015;5;Reclamação regulada;Descumprimento de prazo de bloqueio ou de prazo de devolução de cheque;"Para os casos relacionados a: 
+- descumprimento de prazo de bloqueio de cheque; 
+- descumprimento de prazo de entrega de cheque devolvido ao depositante; ou 
+- não remuneração pelo descumprimento por dia de atraso do prazo de desbloqueio do cheque.
+";
+2015;5;Reclamação regulada;Descumprimento de prazo de resposta da reclamação registrada no BCB;"Para os casos de descumprimento do prazo de resposta por parte da instituição financeira às reclamações registradas no Banco Central do Brasil.
+";
+2015;5;Reclamação regulada;Descumprimento do horário de funcionamento das instituições financeiras;"Para os casos envolvendo irregularidades relacionadas a descumprimento de horário de funcionamento das instituições financeiras, tais como:
+- não divulgação do horário de funcionamento;
+- não divulgação de alteração no horário de funcionamento;
+- não cumprimento do horário mínimo (5 horas diárias ininterruptas, com atendimento obrigatório no período de 12h às 15h);
+- suspensão do atendimento.";
+2015;5;Reclamação regulada;Descumprimento do prazo resposta da Ouvidoria;Para os casos de descumprimento do prazo por parte da Ouvidoria da insituição financeira para apresentação de resposta conclusiva à demanda registrada pelo cliente.;
+2015;5;Reclamação regulada;Débito em conta de depósito não autorizado pelo cliente;Para as situações envolvendo débitos em conta de depósito comandados pela instituição financeira sem a respectiva autorização do cliente.;
+2015;5;Reclamação não regulada;Dificuldade na liberação ou substituição de bem;"Para as situações relacionadas a bens dados em garantia, tais como:
+- demora na substituição de bens dados em garantia;
+- demora no fornecimento de documentos (2a via de DUT, Kit para Opção de Compra) necessários à liberação de veículo (arrendamento mercantil);
+- demora na liberação de bem dado em garantia de financiamento (liberação de gravame em veículos) após a quitação da operação;
+- demora na liberação de hipoteca ou alienação fiduciária de imóveis.";
+2015;5;Reclamação não regulada;Dificuldade para efetuar resgate antecipado de aplicação;Para os casos envolvendo recusa ou embaraços criados pela instituição financeira para o resgate antecipado de aplicações.;
+2015;5;Reclamação regulada;Encaminhamento de instrumento de pagamento ao domicílio não solicitado;Para os casos em que a instituição financeira encaminha  ao domicílio do cliente ou usuário instrumento de pagamento sem sua expressa solicitação ou autorização;
+2015;5;Reclamação regulada;Estorno de depósito em conta referente a cheque já liquidado;"Para os casos envolvendo o estorno, por parte da instituição financeira, de cheque depositado em conta e considerado liquidado.
+";
+2015;5;Reclamação regulada;Falta de transparência na redação de documentos;"Para os casos envolvendo a não utilização de redação clara, objetiva e adequada à natureza e à complexidade da operação ou do serviço, em contratos, recibos, extratos, comprovantes e documentos destinados ao público, de forma a permitir o entendimento do conteúdo e a identificação de prazos, valores, encargos, multas, datas, locais e demais condições.";
+2015;5;Reclamação regulada;Formalização de título adequado envolvendo conta de pagamento pós paga de cartão de crédito consignado com base em documentação falsa;"Para os casos envolvendo a formalização de título adequado vinculada excluisvamente à conta de pagamento pós paga de cartão de crédito consignado com base em documentação falsa.
+";
+2015;5;Reclamação regulada;Formalização de título adequado envolvendo conta de pagamento pós paga de demais cartões de crédito com base em documentação falsa;"Para os casos envolvendo a formalização de título adequado vinculada  à conta de pagamento pós paga de cartão de crédito (exceto o de consignado) com base em documentação falsa.
+";
+2015;5;Reclamação regulada;Fornecimento de cartão de crédito básico;"Para os casos em que a instituição financeira se recusa a ofertar/conceder o cartão de crédito básico, nacional e/ou internacional, a pessoas naturais quando da contratação do cartão de crédito.";
+2015;5;Reclamação não regulada;Golpe;Para as situações relacionadas à ação praticada por eventuais golpistas.;
+2015;5;Reclamação regulada;Inclusão de dados incorretos no CCS (Cadastro de Clientes do Sistema Financeiro Nacional);"Para os casos envolvendo a inclusão, por parte de instituição financeira, de dados incorretos no Cadastro de Clientes do Sistema Financeiro Nacional (CCS).";
+2015;5;Reclamação regulada;Insatisfação com a resposta recebida da instituição financeira referente à reclamação registrada no BCB;"Para os casos de insatisfação com a resposta (incompleta ou incorreta) recebida da instituição financeira à reclamação registrada no Banco Central do Brasil.
+";
+2015;5;Reclamação não regulada;Insatisfação com o atendimento prestado pelo SAC;"Para situações diversas envolvendo atendimento prestado pelo Serviço de Atendimento ao Consumidor (SAC), tais como:
+- atendimento descortês no SAC; 
+- dificuldade de acesso ao SAC;
+- não estabelecimento de prazos ou não cumprimento dos prazos estabelecidos para resposta às consultas e reclamações;
+- não fornecimento do número de protocolo do SAC pela instituição financeira;
+- não disponibilização/entrega de gravação telefônica solicitada pelo cliente.";
+2015;5;Reclamação não regulada;Insatisfação com o atendimento prestado por agências;"Para situações diversas envolvendo atendimento prestado na agência do cliente ou usuário, tais como:
+- atendimento descortês; 
+- não estabelecimento de prazos ou não cumprimento dos prazos estabelecidos para resposta às consultas e reclamações;
+- reclamações envolvendo os produtos ""seguro"" ou ""plano de previdência privada"", manifestada contra a instituição fiscalizada e não contra a seguradora ou contra empresa de previdência privada, tais como: demora no cancelamento ou no pagamento do seguro, demora no resgate da aplicação da previdência, entre outros.
+- demora em efetuar transferência de agência;
+- recusa de atendimento em agência diversa daquela onde o cliente possui conta;
+- demora para transferência de titularidade do devedor em operações de financiamento; 
+- demora para alteração de domicílio bancário (solicitação feita por estabelecimento comercial). 
+- situações decorrentes do não atendimento em função de greve bancária.";
+2015;5;Reclamação não regulada;Investimentos financeiros;"Para as situações relacionadas a investimentos financeiros, tais como:
+- resgate de investimentos sem autorização do cliente;
+- alteração de modalidade de investimento sem autorização do cliente.";
+2015;5;Reclamação regulada;Irregularidades envolvendo a abertura de conta-salário;"Para os casos em que a instituição financeira, contratada para realizar serviços de pagamento de salários, proventos, soldos, vencimentos, aposentadorias, pensões e similares, não faz os respectivos créditos em conta-salário ou não cumpre as eventuais condições e restrições quanto à abertura da conta-salário.
+";
+2015;5;Reclamação regulada;Irregularidades no processo de encerramento de conta de depósitos à vista;"Para as situações envolvendo o não cumprimento das condições exigidas para o encerramento de conta de depósito à vista, tais como:
+- prazo para adoção das providências relacionadas à rescisão do contrato;
+- expedição de aviso ao correntista.";
+2015;5;Reclamação regulada;Irregularidades relacionadas a boletos de pagamento (exceto ausência de contrato com beneficiário);"Para os casos envolvendo boletos de pagamento, tais como:
+- ausência de informações mínimas obrigatórias em boletos de pagamento; 
+- apresentação, não autorizada, por meio eletrônico (Débito Direto Autorizado - DDA).";
+2015;5;Reclamação regulada;Irregularidades relacionadas a cédulas ou moedas;"Para as situações relacionadas ao meio circulante, tais como:
+- recusa em substituir cédulas em mau estado de conservação;
+- recusa em substituir cédulas suspeita de ter sido danificada por acionamento de dispositivo antifurto, na hipóstese de saque, inclusive em terminais de autoatendimento;
+- não ressarcimento ao apresentante do valor correspondente  aos exemplares declarados legítimos, após o resultado do exame do Banco Central.";
+2015;5;Reclamação regulada;Irregularidades relacionadas a operações no mercado de câmbio;"Para os casos envolvendo operações no mercado de câmbio, tais como:
+- demora para aviso de recepção de ordem de pagamento do exterior;
+- remessa para liquidação pronta não cumprida no prazo.";
+2015;5;Reclamação regulada;Irregularidades relacionadas a registros no Cadastro de Emitentes de Cheques sem Fundos (CCF);"Para os casos envolvendo registro incorreto por parte de instituição financeira, relacionadas à inclusão ou exclusão no Cadastro de Emitentes de Cheques sem Fundos (CCF), tais como: 
+- inclusão indevida; 
+- inclusão sem a devida comunicação ao cliente; 
+- não inclusão; 
+- exclusão indevida;
+- não exclusão; ou 
+- descumprimento do prazo de exclusão.";
+2015;5;Reclamação regulada;Irregularidades relacionadas ao acompanhamento de conta;"Para os casos envolvendo falhas no acompanhamento de conta de depósito por parte da instituição financeira (""conheça o seu cliente"").";
+2015;5;Reclamação regulada;Irregularidades relacionadas ao atendimento da Ouvidoria;"Para os casos relacionados ao atendimento por parte da ouvidoria da instituição financeira, tais como:
+- dificuldade de atendimento;
+- encaminhamento para outros canais de atendimento já procurados pelo cliente;
+- não fornecimento de protocolo de atendimento;
+- recusa em fornecer esclarecimentos ou informar o prazo de resposta.";
+2015;5;Reclamação regulada;Irregularidades relacionadas ao Custo Efetivo Total (CET) de operação de crédito;"Para as situações envolvendo irregularidades relacionadas ao Custo Efetivo Total (CET) de operação de crédito, tais como: 
+- ausência no contrato, de forma destacada, da planilha de cálculo do CET;
+- recusa em fornecer planilha de cálculo;
+- não comunicação do CET ao cliente, previamente à contratação;
+- cálculo incorreto.";
+2015;5;Reclamação regulada;Irregularidades relacionadas ao fornecimento de cheques;"Para as irregularidades relacionadas ao fornecimento de cheques, tais como: 
+- recusa ao fornecimento mesmo quando cidadão cumpre as condições estipuladas na ficha-proposta de abertura da conta de depósitos à vista; 
+- fornecimento indevido; ou 
+- envio de talonário pelos Correios sem autorização do cliente.";
+2015;5;Reclamação regulada;Irregularidades relacionadas ao fornecimento de contratos de operações de crédito consignado;Para os casos envolvendo o não fornecimento ao cliente de contratos de operações de crédito consignado.;
+2015;5;Reclamação regulada;Irregularidades relacionadas ao fornecimento de contratos de operações de crédito de outras modalidades, exceto crédito consignado, financiamento imobiliário e cartão de crédito.;"Para os casos envolvendo o não fornecimento ao cliente de contratos em geral, exceto aqueles relacionados às operações de crédito consignado, financiamento imobiliário e cartão de crédito.";
+2015;5;Reclamação regulada;Irregularidades relacionadas ao fornecimento de contratos de operações de financiamento imobiliário;Para os casos envolvendo o não fornecimento ao cliente de contratos de operações de financiamento imobiliário.;
+2015;5;Reclamação regulada;Irregularidades relacionadas ao fornecimento de documento para liquidação antecipada de demais operações de operações de crédito, exceto consignado e financiamento imobiliário;Para os casos envolvendo o não fornecimento ao cliente de boletos ou outro documento que viabilize a liquidação antecipada de operações de crédito não relacionadas a crédito consignado ou financiamento imobiliário.;
+2015;5;Reclamação regulada;Irregularidades relacionadas ao fornecimento de documento para liquidação antecipada de operações de crédito consignado;Para os casos envolvendo o não fornecimento ao cliente de boletos ou outro documento que viabilize a liquidação antecipada de operações de crédito consignado.;
+2015;5;Reclamação regulada;Irregularidades relacionadas ao fornecimento de documento para liquidação antecipada de operações de financiamento imobiliário;"Para os casos em que foi utilizada incorretamente pela instituição financeira a taxa de desconto no cálculo do valor presente das operações de financiamento imobiliário.
+";
+2015;5;Reclamação regulada;Irregularidades relacionadas ao fornecimento de documentos relativos a cartão de crédito;"Para os casos envolvendo o não fornecimento ao cliente de documentos relacionados a cartão de crédito, tais como segundas vias de fatura, contratos de adesão e faturas.";
+2015;5;Reclamação regulada;Irregularidades relacionadas ao fornecimento de informações sobre operações de crédito (pessoa natural) - exceto crédito consignado e financiamento imobiliário;"Para as situações envolvendo o não fornecimento, pela instituição financeira, em até um dia útil contado a partir da solicitação do devedor (pessoa natural), das seguintes informações relativas a demais operação de crédito, exceto as de crédito consignado e de financiamento imobiliário:
+I - número do contrato;
+II - saldo devedor atualizado;
+III - demonstrativo da evolução do saldo devedor;
+IV - modalidade;
+V - taxa de juros anual, nominal e efetiva;
+VI - prazo total e remanescente;
+VII - sistema de pagamento;
+VIII - valor de cada prestação, especificando o valor do principal e dos encargos; e
+IX - data do último vencimento da operação.";
+2015;5;Reclamação regulada;Irregularidades relacionadas ao fornecimento de informações sobre operações de crédito consignado (pessoa natural);"Para as situações envolvendo o não fornecimento, pela instituição financeira, em até um dia útil contado a partir da solicitação do devedor (pessoa natural), das seguintes informações relativas à operação de crédito consignado:
+I - número do contrato;
+II - saldo devedor atualizado;
+III - demonstrativo da evolução do saldo devedor;
+IV - modalidade;
+V - taxa de juros anual, nominal e efetiva;
+VI - prazo total e remanescente;
+VII - sistema de pagamento;
+VIII - valor de cada prestação, especificando o valor do principal e dos encargos; e
+IX - data do último vencimento da operação.";
+2015;5;Reclamação regulada;Irregularidades relacionadas ao fornecimento de informações sobre operações de financiamento imobiliário (pessoa natural);"Para as situações envolvendo o não fornecimento, pela instituição financeira, em até um dia útil contado a partir da solicitação do devedor (pessoa natural), das seguintes informações relativas à operação de financiamento imobiliário:
+I - número do contrato;
+II - saldo devedor atualizado;
+III - demonstrativo da evolução do saldo devedor;
+IV - modalidade;
+V - taxa de juros anual, nominal e efetiva;
+VI - prazo total e remanescente;
+VII - sistema de pagamento;
+VIII - valor de cada prestação, especificando o valor do principal e dos encargos; e
+IX - data do último vencimento da operação.";
+2015;5;Reclamação regulada;Irregularidades relacionadas ao fornecimento de outros documentos, exceto os relativos a cartão de crédito, contratos e liquidação antecipada;"Para os casos envolvendo o não fornecimento ao cliente ou usuário de documentos solicitados, tais como extratos em geral, recibos, comprovantes, faturas, desde que não se refiram a contratos, a cartão de crédito ou a liquidação antecipada.";
+2015;5;Reclamação regulada;Irregularidades relacionadas ao pagamento de cheques;"Para as situações relacionadas ao pagamento de cheques, tais como pagamento de cheque ao portador acima de R$100,00.";
+2015;5;Reclamação regulada;Irregularidades relacionadas ao Sistema de Informações de Crédito do Banco Central (SCR);"Para os casos envolvendo registro ou procedimento incorreto, por parte de instituição financeira, no Sistema de Informações de Crédito do Banco Central (SCR), tais como: 
+
+- consulta de dados sem autorização prévia do cliente;
+- descumprimento de obrigações relacionadas à inclusão/exclusão/alteração de dados;
+- inclusão indevida;
+- inclusão de valores incorretos;
+- não exclusão de inscrições feitas quando constatadas fraudes na concessão do crédito.";
+2015;5;Reclamação regulada;Irregularidades relacionadas à compensação de documentos (exceto cheques);"Para as situações relacionadas à compensação de TEC, TED, DOC e boletos de cobrança, tais como: 
+- descumprimento de prazo de compensação;
+- inobservância do valor limite de DOC
+- não informação/disponibilização de DOC devolvido;
+- etc.";
+2015;5;Reclamação regulada;Irregularidades relacionadas à devolução de cheques;"Para as situações relacionadas à devolução de cheques, tais como:
+- devolução pelo motivo incorreto;
+- não comunicação ao emitente do cheque, quando da devolução pelos motivos 12, 13 e 14; 
+- não fornecimento (ou fornecimento incompleto) de informações sobre o emitente de cheque devolvido;
+- não fornecimento, ao emitente do cheque incluído no CCF, de informações sobre o beneficiário/depositante, mesmo diante da apresentação da cópia do cheque e da autorização deste;
+- fornecimento, ao emitente de cheque, de informações sobre o beneficiário/depositante sem autorização deste;
+- devolução decorrente de divergência entre os valores expressos em algarismos e por extenso;
+- não fornecimento ao emitente de cópia de cheque incluído no CCF;
+- não aposição, pela instituição financeira remetente, do carimbo de devolução no cheque físico;
+- não disponibilização de informações que possam acarretar a devolução de determinado cheque.";
+2015;5;Reclamação regulada;Irregularidades relativas à integridade, confiabilidade, segurança, sigilo ou legitimidade das operações e serviços;"Para as situações em que há indícios de que a instituição financeira não assegurou  integridade, confiabilidade, segurança ou o sigilo das transações realizadas, bem como a legitimidade das operações contratadas e dos serviços prestados.";
+2015;5;Reclamação não regulada;Juros;Para as situações envolvendo o valor das taxas de juros cobradas por instituição financeira.;
+2015;5;Reclamação não regulada;Liberação de recursos em financiamento imobiliário;Para as situações envolvendo demora ou dificuldade nos procedimentos para liberação de financiamentos imobiliários.;
+2015;5;Reclamação regulada;Não acatamento de solicitação de cancelamento de débitos automáticos em conta de depósito;"Para as situações envolvendo o não acatamento, por parte da instituição financeira, de solicitação apresentada pelo cliente para cancelamento de débitos automáticos em conta de depósito à vista, desde que não decorram de obrigações referentes a operações de crédito contratadas com a própria instituição financeira.
+";
+2015;5;Reclamação regulada;Não adoção da nomenclatura padronizada para tarifas bancárias debitadas em contas de depósitos;Para os casos em que as tarifas debitadas em conta de depósitos à vista ou de poupança de pessoas naturais não foram identificadas no extrato de forma clara ou foram utilizadas nomenclaturas fora da padronização da norma.;
+2015;5;Reclamação regulada;Não divulgação de informações sobre tarifas ou pacotes de serviços ou não disponibilização de pacotes de serviços obrigatórios;"Para os casos envolvendo a divulgação de informações relacionadas a tarifas bancárias e a pacotes de serviços ou à disponibilização de pacotes de serviços padronizados, tais como:
+- não divulgação da tabela de tarifas nas suas dependências e nos sítios eletrônicos na internet;
+- não divulgação da tabela de tarifas em correspondentes;
+- não divulgação da majoração da tarifa ou da instituição de nova tarifa aplicável a pessoas naturais;
+- não divulgação da majoração do pacote de serviços ou da instituição de novo pacote;
+- não disponibilização de pacotes de serviços padronizados;
+- não divulgação dos pacotes de serviços nas suas dependências e nos sítios eletrônicos na internet;
+- não disponibilização de informações sobre o pacote de serviços contratados, bem como não prestação de esclarecimentos sobre a existência de outros pacotes de serviços.";
+2015;5;Reclamação regulada;Não divulgação de situações que impliquem recusa à realização de serviços;Para os casos em que há indícios de que a instituição financeira não divulgou as situações que impliquem recusa à realização de serviços.;
+2015;5;Reclamação regulada;Não fornecimento de prospecto de informações essenciais (abertura de conta de depósito à vista e de poupança);"Para os casos envolvendo a não entrega do prospecto de informações essenciais ou o fornecimento de prospecto sem as informações mínimas obrigatórias, por ocasião da abertura de conta de depósito à vista e de poupança.
+";
+2015;5;Reclamação não regulada;Não liberação de margem consignável - Cartão de crédito consignável;"Para as situações envolvendo a não liberação da margem consignável, por parte da instituição financeira, após quitação da operação, quando se referir a cartão.";
+2015;5;Reclamação não regulada;Não liberação de margem consignável (exceto cartão de crédito consignável);"Para as situações envolvendo a não liberação da margem consignável, por parte da instituição financeira, após quitação da operação, para os casos em que não envolva cartão.";
+2015;5;Reclamação regulada;Oferta ou prestação de informação a respeito de produtos e serviços de forma inadequada;Para os casos em que houver indícios de que a instituição ofertou produtos e serviços inadequados ou prestou informações a respeito dos mesmos de forma insuficiente à tomada de decisão por parte de clientes e usuários.;
+2015;5;Reclamação regulada;Operação não reconhecida pelo cliente em terminais de autoatendimento;"Para os casos envolvendo operações não reconhecidas pelo cliente em terminais de autoatendimento, tais como:
+- movimentação em contas de depósitos, aplicações financeiras etc; 
+- contratação de empréstimos.";
+2015;5;Reclamação regulada;Outras irregularidades ;Para os casos envolvendo outras irregularidades que não possuem um item próprio de classificação no presente ranking.;
+2015;5;Reclamação regulada;Outras irregularidades relacionadas à abertura de conta de depósito;Para os casos envolvendo outras irregularidades relacionadas à abertura de conta.;
+2015;5;Reclamação regulada;Outras irregularidades relacionadas à portabilidade de operações de crédito de pessoa natural;"Para os casos envolvendo outras irregularidades relacionadas à portabilidade de operação de crédito contratada por pessoa natural, tais como:
+- aumento do valor da prestação, por parte de instituição financeira proponente, sem a manifestação formal de concordância por parte do devedor;
+- repasse, ao devedor, dos custos relacionados à troca de informações e à transferência de recursos entre as instituições proponente e credora original;
+- ausência de divulgação de informações necessárias para o exercício do direito à portabilidade;
+- situações envolvendo operações de arrendamento mercantil.";
+2015;5;Reclamação não regulada;Outros assuntos relacionados a cartão de crédito;"Para situações diversas envolvendo cartão de crédito emitido por instituições financeiras, tais como:
+- não fornecimento do contrato de adesão ao cartão;
+- descumprimento de cláusulas contratuais;
+- demora no envio de 2ª via de cartão; 
+- demora no envio de cartão com nova validade.";
+2015;5;Reclamação regulada;Ouvidoria - Outras irregularidades;Para os casos envolvendo outras irregularidades relacionadas ao serviço de Ouvidoria.;
+2015;5;Reclamação regulada;Prestação de informações obrigatórias relacionadas a cartão de crédito;"Para os casos relacionados à prestação de informações obrigatórias relaconadas a cartões de crédito, tais como:
+- ausência de informações mínimas nos demonstrativos e/ou faturas mensais;
+- não divulgação de tabela de tarifas em correspondentes no País; 
+- não divulgação, ou divulgação intempestiva, da majoração de tarifas ou da instituição de nova tarifa aplicável a pessoas naturais; ou
+- não divulgação em tabela, bem como não especificação no contrato, dos benefícios/recompensas relacionados a cartões de crédito.";
+2015;5;Reclamação regulada;Prestação de serviço de forma irregular em conta-salário;"Para as situações relacionadas à prestação de serviços, ou movimentação de recursos, de forma irregular em conta-salário, tais como:
+- transferência de recursos não realizada ou realizada de forma intempestiva; 
+- transferência de recursos realizada sem solicitação do cliente; 
+- realização de débitos não autorizados pelo cliente. ";
+2015;5;Reclamação não regulada;Problemas enfrentados com o atendimento preferencial;"Para as situações relacionadas à não observância de legislação específica sobre atendimento a pessoas com deficiência ou com mobilidade reduzida, temporária ou definitiva, idosos, gestantes, lactantes e pessoas acompanhadas por criança de colo.
+
+";
+2015;5;Reclamação não regulada;Produto ou serviço não solicitado (exceto cartões de crédito/débito);"Para as situações relacionadas ao recebimento de produtos/serviços não solicitados (exceto cartões de crédito/débito), tais como:
+- recebimento de títulos de capitalização;
+- recebimento de fatura cobrando mensalidades de seguro;
+- indicação de lançamentos futuros em conta-corrente (a débito) relativos a produtos e serviços não solicitados.";
+2015;5;Reclamação não regulada;Publicidade enganosa;"Para as situações relacionadas à publicidade, por parte da instituição financeira, capaz de induzir o cliente ou o usuário a erro a respeito de natureza, características, riscos, taxas, comissões, tarifas ou qualquer outra forma de remuneração, prazos, tributação e quaisquer outros dados referentes a contratos, operações ou serviços oferecidos ou prestados. ";
+2015;5;Reclamação não regulada;Reclamações relacionadas a assuntos diversos;"Para situações relacionadas a assuntos diversos, não classificadas em rubricas específicas, tais como:
+- imposição de constrangimentos em cobranças de dívidas, inclusive cartão de crédito;
+- não prevenção de danos causados por erros operacionais;
+- recusa de cancelamento de produtos e serviços (exceto pacote de tarifas e cartão de crédito);
+- ligações telefônicas oferecendo produtos e serviços, inclusive cartão de crédito;
+- limites para saques/transferências em meios alternativos.";
+2015;5;Reclamação regulada;Recusa de cancelamento de pacote de serviços;Para os casos em que a instituição financeira se recusa a cancelar o pacote de serviços a pedido do cliente.;
+2015;5;Reclamação não regulada;Recusa de produtos ou serviços;"Para as situações relacionadas à recusa de produtos e serviços, por parte de instituição financeira, tais como:
+- recepção de depósito/pagamento em moeda metálica;
+- abertura de conta;
+- concessão de crédito; 
+- contratação de câmbio;
+- substituição de bens dados em garantia;  
+- aditamento contratual (alteração de cláusulas propostas pelo cliente);
+- transferência de titularidade do devedor de financiamento;
+- transferência de agência;
+- fornecimento de cartão crédito.";
+2015;5;Reclamação regulada;Recusa em acatar saques em espécie, de até R$ 5.000,00, no mesmo expediente;"Para os casos envolvendo a recusa, por parte da instituição financeira, em acatar saques em espécie de conta de depósitos à vista de valor igual ou inferior a R$ 5.000,00, no mesmo expediente e na agência detentora da conta.
+";
+2015;5;Reclamação regulada;Recusa em fornecer a seus clientes informações cadastrais a eles relativas;"Para os casos em que há recusa, por parte da instituição financeira, em fornecer a cliente ou a terceiros por ele autorizado informações cadastrais a ele relativas.
+";
+2015;5;Reclamação regulada;Recusa ou difilculdade de acesso aos canais de atendimento convencionais;"Para os casos envolvendo recusa ou difilculdade de acesso aos canais de atendimento convencionais, inclusive guichês de caixa, mesmo na hipótese de a instituição financeira oferecer atendimento alternativo ou eletrônico. Não aplicável a dependências exclusivamente eletrônicas nem à prestação de serviços de cobrança e de recebimento decorrentes de contratos ou convênios que prevejam canais de atendimento específicos.";
+2015;5;Reclamação não regulada;Renegociação de dívida (exceto cartão de crédito);"Para as situações envolvendo renegociação de dívidas, exceto as envolvendo cartão de crédito.";
+2015;5;Reclamação não regulada;Renegociação de dívidas/encargos relacionadas a cartão de crédito;Para situações relacionadas à renegociação de dívida ou encargos de cartão de crédito.;
+2015;5;Reclamação regulada;Restrição à realização de portabilidade de operações de crédito (exceto crédito consignado e financiamento imobiliário) relativas a pessoas naturais por ausência de documentação de desistência do devedor;"Para os casos envolvendo recusa, por parte da instituição financeira credora original, em efetuar portabilidade de operação de crédito (exceto crédito consignado e financiamento imobiliário) de  pessoa natural, sob alegação de desistência por parte do devedor, sem a necessária apresentação de documentação comprobatória dessa desistência.";
+2015;5;Reclamação regulada;Restrição à realização de portabilidade de operações de crédito (exceto crédito consignado e financiamento imobiliário) relatívas a pessoas naturais por recusa injustificada;"Para os casos envolvendo recusa injustificada, por parte da instituição financeira credora original, para efetuar portabilidade de operação de crédito (exceto crédito consignado e financiamento imobiliário) de pessoa natural, tais como: 
+- não fornecimento do saldo devedor ou de outras informações necessárias para concluir a portabilidade;
+- não comunicação de desistência dentro do prazo previsto;
+- alegação indevida de problemas de inconsistência na TED.";
+2015;5;Reclamação regulada;Restrição à realização de portabilidade de operações de crédito consignado relativas a pessoas naturais por ausência de documentação de desistência do devedor;"Para os casos envolvendo a recusa, por parte da instituição financeira credora original, em efetuar portabilidade de operação de crédito consignado de pessoa natural, sob alegação de desistência por parte do devedor, sem a necessária apresentação de documentação comprobatória dessa desistência.";
+2015;5;Reclamação regulada;Restrição à realização de portabilidade de operações de crédito consignado relativas a pessoas naturais por recusa injustificada;"Para os casos envolvendo recusa injustificada, por parte da instituição financeira credora original, para efetuar portabilidade de operação de crédito consignado de pessoa natural, tais como: 
+- não fornecimento do saldo devedor ou de outras informações necessárias para concluir a portabilidade;
+- não comunicação de desistência dentro do prazo previsto;
+- alegação indevida de problemas de inconsistência na TED.";
+2015;5;Reclamação regulada;Restrição à realização de portabilidade de operações de financiamento imobiliário relativas a pessoas naturais por ausência de documentação de desistência do devedor;"Para os casos envolvendo a recusa, por parte da instituição financeira credora original, em efetuar portabilidade de operação de financiamento imobiliário  de pessoa natural, sob alegação de desistência por parte do devedor, sem a necessária apresentação de documentação comprobatória dessa desistência.";
+2015;5;Reclamação regulada;Restrição à realização de portabilidade de operações de financiamento imobiliário relativas a pessoas naturais por recusa injustificada;"Para os casos envolvendo recusa injustificada, por parte da instituição financeira credora original, para efetuar portabilidade de operação de financiamento imobiliário de pessoa natural, tais como: 
+- não fornecimento do saldo devedor ou de outras informações necessárias para concluir a portabilidade;
+- não comunicação de desistência dentro do prazo previsto;
+- alegação indevida de problemas de inconsistência na TED;
+- não fornecimento da documentação necessária para as devidas averbações no cartório de registro de imóveis.";
+2015;5;Reclamação não regulada;Restrições cadastrais;"Para as situações envolvendo restrições cadastrais no Serasa, SPC e outros cadastros não constantes da base de dados do Banco Central, inclusive as oriundas de operações com cartão de crédito, tais como:
+- inclusão indevida em cadastros restritivos;
+- demora na retirada de restrições cadastrais, após a quitação da dívida.";
+2015;5;Reclamação regulada;Saque ou depósito divergente em terminais de autoatendimento;"Para os casos envolvendo saques e depósitos divergentes em terminais de autoatendimento, tais como: 
+- depósitos não creditados ou creditados fora do prazo;
+- não liberação de cédulas com a ocorrência do débito correspondente ao saque na conta.";
+2015;5;Reclamação não regulada;Segurança bancária;"Para os casos relacionados à segurança bancária, tais como:
+- constrangimentos impostos ao cliente ou usuário em nome da segurança bancária; e
+- falta de segurança nas dependências da instituição financeira.";
+2015;5;Reclamação não regulada;Tempo de espera em fila;Para as situações envolvendo o tempo de espera em filas na instituição financeira.;
+2015;5;Reclamação não regulada;Terminais eletrônicos e internet;"Para problemas relacionados: 
+I - ao uso de terminais eletrônicos de autoatendimento, tais como:
+a) sem numerário;
+b) com defeito;
+c) sem envelope;
+d) sem papel de comprovante.
+
+II - à internet banking, tais como:
+a) site indisponível;
+b) lentidão para processar operações;
+c) à dificuldades para obtenção de senha para acesso ao site de internet banking, inclusive em caso de bloqueio da senha anterior pela instituição financeira.";
+2015;5;Reclamação regulada;Utilização incorreta da taxa de desconto no cálculo do valor presente relacionadas às demais operações de crédito, exceto as de crédito consignado e de financiamento imobiliário;"Para os casos em que foi utilizada incorretamente pela instituição financeira a taxa de desconto no cálculo do valor presente das demais operações de crédito, exceto as de crédito consignado e de financiamento imobiliário.";
+2015;5;Reclamação regulada;Utilização incorreta da taxa de desconto no cálculo do valor presente relacionadas às operações de crédito consignado;Para os casos em que foi utilizada incorretamente pela instituição financeira a taxa de desconto no cálculo do valor presente das operações de crédito consignado.;
+2015;5;Reclamação regulada;Utilização incorreta da taxa de desconto no cálculo do valor presente relacionadas às operações de financiamento imobiliário;Para os casos em que foi utilizada incorretamente pela instituição financeira a taxa de desconto no cálculo do valor presente das operações de financiamento imobiliário.;
+2015;5;Reclamação não regulada;Venda casada;Para as situações relacionadas à venda casada (contratação de operação condicionada à realização de outras operações ou à aquisição de outros bens e serviços).;
