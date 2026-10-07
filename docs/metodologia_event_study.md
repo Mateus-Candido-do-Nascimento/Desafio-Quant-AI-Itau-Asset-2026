@@ -44,7 +44,7 @@ da divulgação do ranking).
 
 | Símbolo | Significado |
 |---|---|
-| **dia 0** | data de divulgação do ranking. Regra do BC: última quinta-feira do mês seguinte ao fim do trimestre, 15h. Como é com mercado aberto, o dia 0 "limpo" é o fechamento desse dia. |
+| **dia 0** | data de divulgação do ranking. Regra do BC (lida do calendário real, validada em 2025): **4ª quinta-feira do mês seguinte ao fim do trimestre, às 15h**. Como é com mercado aberto (B3 fecha ~17h), o dia 0 "limpo" é o fechamento desse dia, que já incorpora ~2h de reação. |
 | **janela de estimação** | ~120 pregões *antes* do evento (ex.: de −130 a −11). Serve só pra **aprender o comportamento normal** da ação. Não pode tocar o evento, senão contamina. |
 | **gap** | os ~10 pregões entre o fim da estimação e o início da janela do evento. Evita que vazamento/antecipação do ranking suje a estimação. |
 | **janela do evento** | poucos pregões em torno do dia 0 (ex.: −5 a +5, ou só 0 a +1). É onde medimos a reação. |
@@ -177,7 +177,8 @@ preço.
 que provavelmente não é coincidência". Sem o teste, qualquer linha torta vira
 narrativa. Com ele, o resultado é honesto — inclusive quando dá nulo.
 
-> **Cuidado com $N$ pequeno.** Temos ~11 bancos por evento e ~36 eventos. Com
+> **Cuidado com $N$ pequeno.** Temos ~11 bancos por evento e **15 eventos**
+> (escopo restrito a 2022+, onde as datas de divulgação são oficiais). Com
 > amostra pequena, o teste-$t$ simples perde poder e fica sensível a outliers.
 > Por isso vamos cruzar com testes não-paramétricos (ex.: teste de sinais) e
 > reportar os dois. Ver [[riscos-n-pequeno]].
@@ -218,7 +219,8 @@ corte vem *depois* de ver a distribuição das distâncias — não chutamos ant
 | 7. Ablation | $CAR_i$ + ranks | índice cru vs. severidade LLM | §4 |
 
 Tudo implementado por nós (proibido delegar a plataforma pronta — regra do
-edital). O backtest é o motor que roda esse pipeline em cada um dos 36 eventos.
+edital). O backtest é o motor que roda esse pipeline em cada um dos 15 eventos
+(2022+); ver resultado da PoC em [[resultado_poc_itau]].
 
 ---
 
