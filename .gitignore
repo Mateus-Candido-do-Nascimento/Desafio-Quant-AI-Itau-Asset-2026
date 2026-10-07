@@ -216,3 +216,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# cache de PDFs das atas do Copom (40 MB, rebaixavel pelo copom.py)
+data/raw/copom/
+
+# documentos oficiais da competicao (material do Itau, nao redistribuir)
+pdf-itau/
