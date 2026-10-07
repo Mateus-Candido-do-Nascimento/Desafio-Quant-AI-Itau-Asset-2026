@@ -27,26 +27,8 @@ if hasattr(sys.stdout, "reconfigure"):
     sys.stdout.reconfigure(encoding="utf-8")
 
 
-# ── Datas de evento ─────────────────────────────────────────────────────────
-def ultima_quinta(ano: int, mes: int) -> dt.date:
-    """Última quinta-feira do mês. Regra observada do calendário do BC."""
-    prox = dt.date(ano + 1, 1, 1) if mes == 12 else dt.date(ano, mes + 1, 1)
-    d = prox - dt.timedelta(days=1)
-    while d.weekday() != 3:  # 3 = quinta
-        d -= dt.timedelta(days=1)
-    return d
-
-
-def data_divulgacao(ano: int, q: int) -> dt.date:
-    """Última quinta-feira do mês seguinte ao fim do trimestre.
-
-    Ex.: Q1 termina em março -> divulgação na última quinta de abril.
-    TODO: validar contra o calendário real do BC até 2017 (CLAUDE.md).
-    """
-    mes = {1: 3, 2: 6, 3: 9, 4: 12}[q] + 1
-    ano_div = ano + (1 if mes > 12 else 0)
-    mes = mes - 12 if mes > 12 else mes
-    return ultima_quinta(ano_div, mes)
+# Datas de divulgação: NÃO há fórmula (o BC mudou o esquema). A verdade está em
+# config.DATAS_DIVULGACAO, copiada do calendário oficial. Ver config.py.
 
 
 # ── Teste ────────────────────────────────────────────────────────────────────
@@ -61,12 +43,19 @@ def main() -> None:
     print("=" * 64)
     print("TESTE 1 — EVENTOS LIMPOS (point-in-time)")
     print("=" * 64)
-    print(f"Aparições banco × trimestre no universo: {len(df)}")
+    print(f"Aparições banco × trimestre no universo (todos os anos): {len(df)}")
 
-    # data de divulgação de cada (ano, trimestre)
+    # data de divulgação: só os (ano, trimestre) com data confirmada entram no
+    # event study. Os demais (2017-2021, sem data exata) saem aqui.
     df["data_div"] = df.apply(
-        lambda r: data_divulgacao(int(r["ano"]), int(r["trimestre"])), axis=1
+        lambda r: cfg.DATAS_DIVULGACAO.get((int(r["ano"]), int(r["trimestre"]))),
+        axis=1,
     )
+    n_antes_escopo = len(df)
+    df = df[df["data_div"].notna()].copy()
+    print(f"Após restringir aos {len(cfg.DATAS_DIVULGACAO)} eventos com data "
+          f"oficial (2022+): {len(df)}  (-{n_antes_escopo - len(df)})")
+
     # point-in-time: o ticker já era negociável na data da divulgação?
     df["data_listagem"] = df["ticker"].map(cfg.DATA_LISTAGEM)
     df["ja_listado"] = df.apply(

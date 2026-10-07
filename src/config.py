@@ -17,9 +17,39 @@ DATA_RAW = ROOT / "data" / "raw"          # preços crus baixados (não versiona
 DATA_PROC = ROOT / "data" / "processed"   # tudo que tratamos (auditável)
 
 # ── Escopo temporal ─────────────────────────────────────────────────────────
-# O BC só publica trimestral a partir de 2017. Antes era mensal/semestral,
-# com universo de bancos menor. Decisão: event study só no trimestral.
+# O BC só publica trimestral a partir de 2017. Antes era mensal/semestral.
+# O ETL trata TODOS os trimestres (a F2/aceleração precisa do trimestre t-1),
+# mas o EVENT STUDY usa só os eventos com data de divulgação confirmada — ver
+# DATAS_DIVULGACAO abaixo.
 ANO_INICIO = 2017
+
+# ── Datas de divulgação do ranking (EVENT STUDY) ────────────────────────────
+# Decisão de escopo: o calendário OFICIAL do BC só vai até 2022. Para 2017-2021
+# as datas só existem em notícias (imprecisas), o que sujaria o dia 0. Optamos
+# por restringir o event study a 2022+, onde toda data é exata e defensável.
+#
+# Sem fórmula: o BC mudou o esquema de divulgação (2022+ cai em quinta/terça
+# irregular, não há regra de calendário que acerte). Esta tabela É a verdade,
+# copiada do calendário oficial (ranking de Bancos; ignorados os de Consórcio).
+# 2022 Q2 não existe (transição de metodologia do BC).
+DATAS_DIVULGACAO: dict[tuple[int, int], "dt.date"] = {
+    (2022, 1): dt.date(2022, 7, 21),   # atrasado (transição de metodologia)
+    (2022, 3): dt.date(2022, 10, 20),
+    (2022, 4): dt.date(2023, 1, 19),
+    (2023, 1): dt.date(2023, 4, 20),
+    (2023, 2): dt.date(2023, 7, 25),   # terça
+    (2023, 3): dt.date(2023, 10, 31),  # terça
+    (2023, 4): dt.date(2024, 1, 25),
+    (2024, 1): dt.date(2024, 4, 25),
+    (2024, 2): dt.date(2024, 7, 30),   # terça
+    (2024, 3): dt.date(2024, 10, 24),
+    (2024, 4): dt.date(2025, 1, 23),
+    (2025, 1): dt.date(2025, 4, 24),
+    (2025, 2): dt.date(2025, 7, 24),
+    (2025, 3): dt.date(2025, 10, 23),
+    (2025, 4): dt.date(2026, 1, 22),
+    # (2026, 1): FALTA — pegar do calendário (divulgado ~abr/2026)
+}
 
 # Nomes possíveis do arquivo de reclamações (o BC mudou o layout em 2024Q3).
 ARQ_RECLAMACOES_NOVO = (
